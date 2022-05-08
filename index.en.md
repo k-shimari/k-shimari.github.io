@@ -7,12 +7,13 @@ Associate Professor, [Software Engineering Laboratory](https://naist-se.github.i
 
 E-mail：k.shimari@is.(+naist.jp)
 
-# Publications
+<!-- # Publications -->
 ## Journal Papers
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                   Near-Omniscient Debugging Tool for Java Using Size-Limited Execution
                   Trace," Science of Computer Programming, vol.206, pp102630, June 2021
                   [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)]
+
 ## Journal Papers (in Japanese)
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method
                   for similar source code fragment search," IEICE TRANSACTIONS on
@@ -21,6 +22,7 @@ E-mail：k.shimari@is.(+naist.jp)
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method
                   using a limited size storage for Java," Computer Software, Vol.36,
                   No.4, pp.107-113, October 2019
+
 ##  Conference and Workshop Papers
   * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue: "didiffff: A Viewer for Comparing Changes in both
                   Code and Execution Trace," Proceedings of the 30th IEEE International
@@ -54,7 +56,7 @@ E-mail：k.shimari@is.(+naist.jp)
   * **<u>Kazumasa Shimari</u>**, "The Enouragement Award of Student Presentation", IPSJ/SIGSE
                   Software Engineering Symphosium, September 2017
 
-# Activity
+<!-- # Activity -->
 ## Academic Service
   * APSEC2022: Program Committee Member of Technical and ERA Track
   * APSEC2018: Student Volunteer
@@ -72,7 +74,7 @@ E-mail：k.shimari@is.(+naist.jp)
   * 2017:Cloud Spiral Cloud Specialist Program Initiative for
                   Reality-based Advanced Learning(Cloud Spiral) -->
 
-# Other
+<!-- # Other -->
 ## Education
   * 2022.04-: Assistant Professor, Software Engineering Laboratory,
                   Division of Information Science, Graduate School of Science and
