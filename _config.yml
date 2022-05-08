@@ -2,14 +2,17 @@ remote_theme: christianezeani/panthera-jekyll
 
 title: [Kazumasa Shimari]
 subtitle: [Assistant Professor]
-description: [A short description of your site's purpose]
 
-Japanese:
+menu:
   - text: [Japanese]
-    link: [index.html]
-    icon: [Menu Icon]
+    link: [/]
+    icon: [""]
 
-English:
   - text: [English]
     link: [index.en.html]
-    icon: [Menu Icon]
+    icon: [""]
+  
+social_icons:
+  - name: github
+    link: https://github.com/k-shimari
+    icon: fab fa-github-square

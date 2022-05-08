@@ -1,5 +1,3 @@
-[Japanese page](./index.html)
-
 # Kazumasa Shimari
 Associate Professor, [Software Engineering Laboratory](https://naist-se.github.io/), Division of Information Science, Graduate School of Science and Technology, Nara Institute of Science and Technology
 
@@ -59,6 +57,7 @@ E-mail：k.shimari@is.(+naist.jp)
 <!-- # Activity -->
 ## Academic Service
   * APSEC2022: Program Committee Member of Technical and ERA Track
+
   * APSEC2018: Student Volunteer
 
 ## Lecture

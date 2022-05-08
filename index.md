@@ -1,5 +1,3 @@
-[English page](./index.en.html)
-
 # 嶋利 一真
 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 [ソフトウェア工学研究室](https://naist-se.github.io/) 助教
 
@@ -7,7 +5,7 @@
 
 連絡先：k.shimari@is.(+naist.jp)
 
-# Publications
+# 論文
 ## 論文誌
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
@@ -120,7 +118,7 @@
   * 2019.04-2019.06: Research Assistant　大阪大学大学院情報科学研究科
 
   * 2018.06-2018.09: Cloud Spiral　大阪大学大学院情報科学研究科
-  
+
   * 2017.09-2018.02: 言語処理工学A　大阪大学基礎工学部情報科学科
 
 ## 公開中のツール
