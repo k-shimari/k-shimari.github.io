@@ -54,7 +54,7 @@ E-mail：k.shimari@is.(+naist.jp)
   * **<u>Kazumasa Shimari</u>**, "The Enouragement Award of Student Presentation", IPSJ/SIGSE
                   Software Engineering Symphosium, September 2017
 
-<!-- # Activity -->
+# Activity
 ## Academic Service
   * APSEC2022: Program Committee Member of Technical and ERA Track
 
@@ -73,7 +73,7 @@ E-mail：k.shimari@is.(+naist.jp)
   * 2017:Cloud Spiral Cloud Specialist Program Initiative for
                   Reality-based Advanced Learning(Cloud Spiral) -->
 
-<!-- # Other -->
+# Other
 ## Education
   * 2022.04-: Assistant Professor, Software Engineering Laboratory,
                   Division of Information Science, Graduate School of Science and
