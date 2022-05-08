@@ -49,15 +49,15 @@
                 克郎："ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09)[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)]
 
 ## 研究会・全国大会等
-  * **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎："限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1219.html)]
+  * **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎："限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)]
 
-  * Liang Qiu, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue: "Investigation on the Impact of Logging Configuration Change on the Log Output",第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1218.html)]
+  * Liang Qiu, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue: "Investigation on the Impact of Logging Configuration Change on the Log Output",第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1230.html)]
 
-  * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎："再利用されたStack Overflowのコード片の進化パターンとOSSでの追従状況の調査"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1218.html)]
+  * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎："再利用されたStack Overflowのコード片の進化パターンとOSSでの追従状況の調査"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1231.html)]
 
   * Mohan Bian, Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue: "Investigating the impact of source
                 code metrics on merge conflict resolution judgement model," 情報処理学会研究報告, vol.2021-SE-210, no.21, pp.
-                1-8，オンライン (2022.03) 
+                1-8，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1234.html)]
 
   * **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎："準網羅的な実行トレースを用いた実行差分の可視化とデバッグの有用性検証"，第2回次世代ソフトウェアエコシステムワークショップ,
                 ポスター，兵庫 (2021.11) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1219.html)]
@@ -92,6 +92,7 @@
 # 活動
 ## 学会活動
   * APSEC2022: Program Committee Member of Technical and ERA Track
+  
   * APSEC2018: Student Volunteer
 
 ## 講義
