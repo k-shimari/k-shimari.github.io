@@ -1,4 +1,3 @@
-
 [English page](./index.en.html)
 
 # 嶋利 一真
@@ -81,15 +80,21 @@
   * 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)]
     * **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)]
 
-## 学位論文・特別研究報告
-  * 博士学位論文: "Study on Cost-Effective Debugging Methods under Restricted Resources" (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Dthesis/contents.ja/41.html)]
-  * 修士学位論文: "限られた保存領域を使用する Java プログラムの実行トレース記録手法の提案と評価" (2019.02) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Mthesis/contents.ja/144.html)]
-  * 特別研究報告: "ソフトウェア障害分析のための低侵襲な実行モニタリングツールの試作" (2017.02) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.ja/155.html)]
+# 活動
+## 学会活動
+  * APSEC2022: Program Committee Member of Technical and ERA Track
+  * APSEC2018: Student Volunteer
 
-## Academic Service
-  * 2018.12: APSEC2018 Student Volunteer
+## 講義
+  * 2022: ソフトウェア工学
 
-##  学歴・職歴
+
+## 受講
+  * Cloud Spiral2017修了
+
+
+# その他
+## 学歴・職歴
   * 2022.04-: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 ソフトウェア工学研究室 助教
   * 2019.04-2022.03: 大阪大学 大学院情報科学研究科 コンピュータサイエンス専攻 博士（情報科学）
   * 2017.04-2019.03: 大阪大学 大学院情報科学研究科 コンピュータサイエンス専攻 修士（情報科学）
@@ -100,9 +105,6 @@
   * 2019.04-2019.06: Research Assistant　大阪大学大学院情報科学研究科
   * 2018.06-2018.09: Cloud Spiral　大阪大学大学院情報科学研究科
   * 2017.09-2018.02: 言語処理工学A　大阪大学基礎工学部情報科学科
-
-## 受講
-  * Cloud Spiral2017修了
 
 ## 公開中のツール
   * [NOD4J](https://github.com/k-shimari/nod4j): 実行時の変数情報を記録，可視化するツール
