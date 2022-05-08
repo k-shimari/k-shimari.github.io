@@ -1,1 +1,15 @@
 remote_theme: christianezeani/panthera-jekyll
+
+title: [Kazumasa Shimari]
+subtitle: [Assistant Professor]
+description: [A short description of your site's purpose]
+
+Japanese:
+  - text: [Japanese]
+    link: [index.html]
+    icon: [Menu Icon]
+
+English:
+  - text: [English]
+    link: [index.en.html]
+    icon: [Menu Icon]

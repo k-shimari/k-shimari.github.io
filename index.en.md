@@ -7,7 +7,7 @@ Associate Professor, [Software Engineering Laboratory](https://naist-se.github.i
 
 E-mail：k.shimari@is.(+naist.jp)
 
-<!-- # Publications -->
+# Publications
 ## Journal Papers
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                   Near-Omniscient Debugging Tool for Java Using Size-Limited Execution
