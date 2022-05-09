@@ -1,5 +1,5 @@
 # Kazumasa Shimari
-Associate Professor, [Software Engineering Laboratory](https://naist-se.github.io/), Division of Information Science, Graduate School of Science and Technology, Nara Institute of Science and Technology
+Assistant Professor, [Software Engineering Laboratory](https://naist-se.github.io/), Division of Information Science, Graduate School of Science and Technology, Nara Institute of Science and Technology
 
 ![photo]({{ site.url }}/pic/shimari.jpg)
 
