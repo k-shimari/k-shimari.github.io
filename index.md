@@ -1,5 +1,6 @@
 # 嶋利 一真
 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 [ソフトウェア工学研究室](https://naist-se.github.io/) 助教
+大阪大学 大学院情報科学研究科 招へい教員
 
 ![photo]({{ site.url }}/pic/shimari.jpg)
 
