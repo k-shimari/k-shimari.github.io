@@ -1,5 +1,6 @@
 # 嶋利 一真
 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 [ソフトウェア工学研究室](https://naist-se.github.io/) 助教
+
 大阪大学 大学院情報科学研究科 招へい教員
 
 ![photo]({{ site.url }}/pic/shimari.jpg)
@@ -24,16 +25,16 @@
 
 * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue: "didiffff: A Viewer for Comparing Changes in
                 both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Coprehension (ICPC 2022), 
-                Online, May 2022
+                Online, May 2022  <!-- Acceptance rate 38% (5/13) -->
 
 * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio,
                 "JISDLab: A web-based interactive literate debugging environment,"
                 Proceedings of the 29th IEEE International Conference onSoftware Analysis, Evolution and Reengineering (SANER
-                2022), March 2022
+                2022), March 2022 <!-- Acceptance rate 75% (9/12) -->
 
 * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue: "Near-Omniscient Debugging for
                 Java Using Size-Limited Execution Trace," 35th IEEE International Conference on Software Maintenance and
-                Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] 
+                Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] <!-- Acceptance rate 58% (11/19) -->
 
 * Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue: "PADLA: A Dynamic Log Level
                 Adapter Using Online Phase Detection," Proceedings of the IEEE/ACM 27th International Conference on Program
@@ -122,6 +123,13 @@
   * 2018.06-2018.09: Cloud Spiral　大阪大学大学院情報科学研究科
 
   * 2017.09-2018.02: 言語処理工学A　大阪大学基礎工学部情報科学科
+
+## 学位論文
+  * 博士論文: "Study on Cost-Effective Debugging Methods under Restricted Resources（限られた資源を用いた効率的なデバッグ手法に関する研究）" 2022年3月 [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Dthesis/contents.ja/41.html)]
+  
+  * 修士論文: " 限られた保存領域を使用する Java プログラムの実行トレース記録手法の提案と評価",               2019年2月[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Mthesis/contents.en/144.html)]
+
+  * 卒業論文: "ソフトウェア障害分析のための低侵襲な実行モニタリングツールの試作", 2017年2月[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.en/155.html)]
 
 ## 公開中のツール
   * [NOD4J](https://github.com/k-shimari/nod4j): 実行時の変数情報を記録，可視化するツール

@@ -24,17 +24,18 @@ E-mail：k.shimari@is.(+naist.jp)
 ##  Conference and Workshop Papers
   * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue: "didiffff: A Viewer for Comparing Changes in both
                   Code and Execution Trace," Proceedings of the 30th IEEE International
-                  Conference on Program Coprehension (ICPC 2022), Online, May 2022
+                  Conference on Program Coprehension (ICPC 2022), Online, May 2022 <!-- Acceptance rate 38% (5/13) -->
+
   * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging
                   environment," Proceedings of the 29th IEEE International Conference
                   onSoftware Analysis, Evolution and Reengineering (SANER 2022), Online,
-                  March 2022
+                  March 2022 <!-- Acceptance rate 75% (9/12) -->
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue: "Near-Omniscient
                   Debugging for Java Using Size-Limited Execution Trace," Proceedings of
                   the 35th IEEE International Conference on Software Maintenance and
                   Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019
-                  [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)]
+                  [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] <!-- Acceptance rate 58% (11/19) -->
 
   * Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue: "PADLA: A Dynamic Log Level Adapter
                   Using Online Phase Detection," Proceedings of the IEEE/ACM 27th
