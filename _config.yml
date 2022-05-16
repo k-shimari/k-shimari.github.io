@@ -4,12 +4,12 @@ title: Kazumasa Shimari
 subtitle: Assistant Professor
 
 menu:
-  - text: Japanese
+  - text: English
     link: /
     icon: ""
 
-  - text: English
-    link: index.en.html
+  - text: Japanese
+    link: index.ja.html
     icon: ""
   
 social_icons:
