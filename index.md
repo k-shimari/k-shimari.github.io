@@ -75,10 +75,11 @@ E-mail：k.shimari@is.(+naist.jp)
                   Reality-based Advanced Learning(Cloud Spiral) -->
 
 # Other
-## Education
+## Education & Career
   * 2022.04-: Assistant Professor, Software Engineering Laboratory,
                   Division of Information Science, Graduate School of Science and
                   Technology, Nara Institute of Science and Technology
+
   * 2019.04-2022.03: Doctor of Information Science and Technology,
                   Graduate School of Information Science and Technology, Osaka
                   University.
@@ -92,6 +93,7 @@ E-mail：k.shimari@is.(+naist.jp)
 ## Thesis
   * Ph.D. Thesis: "Study on Cost-Effective Debugging Methods under
                   Restricted Resources" (2022.03) [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/Dthesis/contents.ja/41.html)]
+
   * Master Thesis: "The proposal and evaluation of an execution trace
                   recording method using a limited size storage for Java.", February
                   2019 (in Japanese)[[detail](https://sel.ist.osaka-u.ac.jp/lab-db/Mthesis/contents.en/144.html)]
