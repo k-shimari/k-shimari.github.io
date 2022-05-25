@@ -24,7 +24,7 @@ E-mail：k.shimari@is.(+naist.jp)
 ##  Conference and Workshop Papers
   * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue: "didiffff: A Viewer for Comparing Changes in both
                   Code and Execution Trace," Proceedings of the 30th IEEE International
-                  Conference on Program Coprehension (ICPC 2022), Online, May 2022 <!-- Acceptance rate 38% (5/13) -->
+                  Conference on Program Coprehension (ICPC 2022), Online, May 2022 [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)]<!-- Acceptance rate 38% (5/13) -->
 
   * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging
                   environment," Proceedings of the 29th IEEE International Conference

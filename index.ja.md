@@ -25,7 +25,8 @@
 
 * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue: "didiffff: A Viewer for Comparing Changes in
                 both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Coprehension (ICPC 2022), 
-                Online, May 2022  <!-- Acceptance rate 38% (5/13) -->
+                Online, May 2022[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)]
+                  <!-- Acceptance rate 38% (5/13) -->
 
 * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio,
                 "JISDLab: A web-based interactive literate debugging environment,"
@@ -51,6 +52,8 @@
                 克郎："ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09)[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)]
 
 ## 研究会・全国大会等
+  <!-- * 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎："Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2021-SE-211, no.xx, pp.x-x，オンライン (2022.07) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/xxxx.html)] -->
+
   * **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎："限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)]
 
   * Liang Qiu, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue: "Investigation on the Impact of Logging Configuration Change on the Log Output",第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1230.html)]
