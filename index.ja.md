@@ -9,7 +9,8 @@
 
 # 論文
 ## 論文誌
-
+  * 栗原 拓己**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，採録決定
+ 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                 Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming,
                 vol.206, pp102630, June 2021 [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)]

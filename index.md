@@ -13,6 +13,9 @@ E-mail：k.shimari@is.(+naist.jp)
                   [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)]
 
 ## Journal Papers (in Japanese)
+  * Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on
+                  Information and Systems,Accepted.
+
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method
                   for similar source code fragment search," IEICE TRANSACTIONS on
                   Information and Systems, Vol.J103-D, No.10, pp.751-753, October 2020
