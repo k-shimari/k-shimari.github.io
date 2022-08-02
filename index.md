@@ -5,6 +5,9 @@ Assistant Professor, [Software Engineering Laboratory](https://naist-se.github.i
 
 E-mail：k.shimari@is.(+naist.jp)
 
+# Research Interests
+My research interests include software debugging, dynamic analysis, program comprehension.
+
 # Publications
 ## Journal Papers
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
@@ -14,7 +17,7 @@ E-mail：k.shimari@is.(+naist.jp)
 
 ## Journal Papers (in Japanese)
   * Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on
-                  Information and Systems,Accepted.
+                  Information and Systems, Accepted.
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method
                   for similar source code fragment search," IEICE TRANSACTIONS on
