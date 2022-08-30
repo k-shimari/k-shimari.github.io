@@ -9,7 +9,7 @@
 
 # 論文
 ## 論文誌
-  * 栗原 拓己**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，採録決定
+  * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，採録決定
  
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                 Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming,
@@ -55,7 +55,7 @@
                 克郎，"ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09)[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)]
 
 ## 研究会・全国大会等
-  * 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎："Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html]
+  * 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎："Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html)]
 
   * **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)]
 
@@ -89,6 +89,7 @@
                 ワークショップ，東京 (2018.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1125.html)]
 
 ## 受賞など
+  * 
   * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019)
 
   * **<u>嶋利 一真</u>**，日本ソフトウェア科学会， "ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)]
