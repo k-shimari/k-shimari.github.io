@@ -24,6 +24,10 @@
 
 ## 国際会議・ワークショップ（査読有り）
 
+* Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," 16th International Workshop of Software Clones, Accepted. 
+
+* Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," 16th International Workshop of Software Clones, Accepted. 
+
 * **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," ICSME 2022 Industy Track, Accepted. <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
 
 * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in
@@ -45,6 +49,8 @@
                 Comprehension (ICPC 2019), pp.135-138, Montreal, Quebec, Canada, May 2019[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] 
                 
 ## 国内会議（査読有り）
+  <!-- * 北岡 哲哉, 神崎 雄一郎, 石尾 隆, 嶋利 一真，松本 健一，"コード難読化ツールの信頼性を評価するフレームワークの検討"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022 in 松江しんじ湖温泉，松江，島根 (2022.11) -->
+  
   * 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"プログラム実行に対するフェイズ検出を用いたログ取得量の動的変更手法の提案"，ウィンターワークショップ2019・イン・福島飯坂
                 論文集，pp.17-18，福島 (2019.01) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1144.html)]
 
@@ -55,7 +61,11 @@
                 克郎，"ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09)[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)]
 
 ## 研究会・全国大会等
-  * 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎："Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html)]
+
+  * 大和 祐介，石尾 隆，嶋利 一真，松本 健一，"遠隔プログラミング演習におけるエラー解説機能の導入"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2022
+  ワークショップ，早稲田，東京 (2022.09)
+  
+  * 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎，"Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html)]
 
   * **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)]
 
@@ -89,8 +99,8 @@
                 ワークショップ，東京 (2018.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1125.html)]
 
 ## 受賞など
-  * 
-  * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019)
+  * 2021年度研究会推薦博士論文速報（ソフトウェア工学研究会）： Study on Cost-Effective Debugging Methods under Restricted Resources
+  <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
   * **<u>嶋利 一真</u>**，日本ソフトウェア科学会， "ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)]
  
@@ -106,11 +116,9 @@
 
 ## 講義
   * 2022: ソフトウェア工学
-
-
+<!-- 
 ## 受講
-  * Cloud Spiral2017修了
-
+  * Cloud Spiral2017修了 -->
 
 # その他
 ## 学歴・職歴
