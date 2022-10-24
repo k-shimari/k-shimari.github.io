@@ -29,11 +29,11 @@ My research interests include software debugging, dynamic analysis, program comp
 
 ##  Conference and Workshop Papers
 
-  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," 16th International Workshop of Software Clones, Accepted. 
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones, pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
-  * Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," 16th International Workshop of Software Clones, Accepted. 
-  
-  * **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," ICSME 2022 Industy Track, Accepted. <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
+  * Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," Proceedings of the 16th International Workshop on Software Clones, pp.62-68, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
+
+  * **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution, pp.564 -567, Limassol, Cyprus, Oct. 2022 <!--Industry Track [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
 
   * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in both
                   Code and Execution Trace," Proceedings of the 30th IEEE International
@@ -73,6 +73,8 @@ My research interests include software debugging, dynamic analysis, program comp
   * APSEC2022: Program Committee Member of Technical and ERA Track
 
   * APSEC2018: Student Volunteer
+  
+  <!-- * Empirical Software Engineering: Peer Review (2022) -->
 
 ## Lecture
   * 2022: Software Engineering 

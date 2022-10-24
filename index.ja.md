@@ -24,11 +24,11 @@
 
 ## 国際会議・ワークショップ（査読有り）
 
-* Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," 16th International Workshop of Software Clones, Accepted. 
+* Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones, pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
-* Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," 16th International Workshop of Software Clones, Accepted. 
+* Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," Proceedings of the 16th International Workshop on Software Clones, pp.62-68, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
-* **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," ICSME 2022 Industy Track, Accepted. <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
+* **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution, pp.564 -567, Limassol, Cyprus, Oct. 2022 <!--Industry Track [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
 
 * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in
                 both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Coprehension (ICPC 2022), pp.528-532, 
@@ -49,8 +49,11 @@
                 Comprehension (ICPC 2019), pp.135-138, Montreal, Quebec, Canada, May 2019[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] 
                 
 ## 国内会議（査読有り）
-  <!-- * 北岡 哲哉, 神崎 雄一郎, 石尾 隆, 嶋利 一真，松本 健一，"コード難読化ツールの信頼性を評価するフレームワークの検討"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022 in 松江しんじ湖温泉，松江，島根 (2022.11) -->
-  
+
+  * 北岡 哲哉, 神崎 雄一郎, 石尾 隆, 嶋利 一真，松本 健一，"コード難読化ツールの信頼性を評価するフレームワークの検討"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022 in 松江しんじ湖温泉，松江，島根，採録決定 (2022.11)
+
+  * 内田 啓太, 石尾 隆, 嶋利 一真，松本 健一，"2つのWebアプリケーション間の類似する操作対象の対応関係抽出"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022 in 松江しんじ湖温泉，松江，島根，採録決定 (2022.11)
+
   * 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"プログラム実行に対するフェイズ検出を用いたログ取得量の動的変更手法の提案"，ウィンターワークショップ2019・イン・福島飯坂
                 論文集，pp.17-18，福島 (2019.01) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1144.html)]
 
@@ -61,6 +64,7 @@
                 克郎，"ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09)[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)]
 
 ## 研究会・全国大会等
+  * 
 
   * 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"遠隔プログラミング演習におけるエラー解説機能の導入"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2022
   ワークショップ，早稲田，東京 (2022.09)
@@ -113,6 +117,8 @@
   * APSEC2022: Program Committee Member of Technical and ERA Track
   
   * APSEC2018: Student Volunteer
+
+  <!-- * Empirical Software Engineering: Peer Review (2022) -->
 
 ## 講義
   * 2022: ソフトウェア工学
