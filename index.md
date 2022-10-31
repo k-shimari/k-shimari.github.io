@@ -70,12 +70,15 @@ My research interests include software debugging, dynamic analysis, program comp
 
 # Activity
 ## Academic Service
-  * APSEC2022: Program Committee Member of Technical and ERA Track
-
-  * APSEC2018: Student Volunteer
+  * Program Committee Member
+    * APSEC2022 Technical and ERA 
   
-  <!-- * Empirical Software Engineering: Peer Review (2022) -->
-
+  * Journal Peer Review
+    * Empirical Software Engineering (2022)
+  
+  * Student Volunteer
+    * APSEC2018  
+  
 ## Lecture
   * 2022: Software Engineering 
 

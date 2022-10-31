@@ -112,11 +112,14 @@
 
 # 活動
 ## 学会活動
-  * APSEC2022: Program Committee Member of Technical and ERA Track
+  * Program Committee Member
+    * APSEC2022 Technical and ERA 
   
-  * APSEC2018: Student Volunteer
-
-  <!-- * Empirical Software Engineering: Peer Review (2022) -->
+  * Journal Peer Review
+    * Empirical Software Engineering (2022)
+  
+  * Student Volunteer
+    * APSEC2018  
 
 ## 講義
   * 2022: ソフトウェア工学
