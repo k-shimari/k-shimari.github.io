@@ -17,7 +17,7 @@ My research interests include software debugging, dynamic analysis, program comp
 
 ## Journal Papers (in Japanese)
   * Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on
-                  Information and Systems, Accepted.
+                  Information and Systems, Vol.J105-D, No.11, pp.717-719, Nov. 2022.
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method
                   for similar source code fragment search," IEICE TRANSACTIONS on

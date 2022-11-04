@@ -9,7 +9,7 @@
 
 # 論文
 ## 論文誌
-  * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.-, Nov. 2022.
+  * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, Nov. 2022.
  
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                 Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming,
@@ -152,3 +152,9 @@
 
 ## 公開中のツール
   * [NOD4J](https://github.com/k-shimari/nod4j): 実行時の変数情報を記録，可視化するツール
+
+<!-- ## 研究費
+  * 科研費
+    * 利用機能の実行時情報解析による厳密かつ効率的なライブラリの互換性検証手法，研究活動スタート支援，2022年度～2023年度
+  * その他
+    * 栢森情報科学振興財団 研究助成，2022年度～2024年度 -->
