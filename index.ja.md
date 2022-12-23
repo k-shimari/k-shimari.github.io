@@ -23,6 +23,7 @@
                 pp.107-113(2019.10) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)]
 
 ## 国際会議・ワークショップ（査読有り）
+* Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
 * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones, pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
@@ -100,8 +101,11 @@
   * **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"部分的な実行再現を目的とした実行トレース収集手法の調査"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2018
                 ワークショップ，東京 (2018.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1125.html)]
 
+## 招待講演
+  * 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
+
 ## 受賞など
-  * 2021年度研究会推薦博士論文速報（ソフトウェア工学研究会）： Study on Cost-Effective Debugging Methods under Restricted Resources
+  * **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文速報（ソフトウェア工学研究会）
   <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
   * **<u>嶋利 一真</u>**，日本ソフトウェア科学会， "ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)]
@@ -113,7 +117,8 @@
 # 活動
 ## 学会活動
   * Program Committee Member
-    * APSEC2022 Technical and ERA 
+    * APSEC2022 Technical and ERA Track
+    * ICPC2023 Technical Track
   
   * Journal Peer Review
     * Empirical Software Engineering (2022)
@@ -153,8 +158,13 @@
 ## 公開中のツール
   * [NOD4J](https://github.com/k-shimari/nod4j): 実行時の変数情報を記録，可視化するツール
 
+<!-- ## 指導学生の受賞
+  * 北岡 哲哉，IEEE Young Researcher Award，2022
+  * 北岡 哲哉，貢献賞（フルペーパー），FOSE，2022 -->
+
 <!-- ## 研究費
   * 科研費
     * 利用機能の実行時情報解析による厳密かつ効率的なライブラリの互換性検証手法，研究活動スタート支援，2022年度～2023年度
   * その他
-    * 栢森情報科学振興財団 研究助成，2022年度～2024年度 -->
+    * 栢森情報科学振興財団 研究助成，テスト実行時情報とソースコードの差分を用いた効率的なテストケース選択手法の提案，2022年度～2024年度 -->
+  

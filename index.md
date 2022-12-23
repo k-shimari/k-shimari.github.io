@@ -28,6 +28,7 @@ My research interests include software debugging, dynamic analysis, program comp
                   No.4, pp.107-113, October 2019
 
 ##  Conference and Workshop Papers
+  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
   * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones, pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
