@@ -104,8 +104,9 @@
 ## 招待講演
   * 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
 
-## 受賞など
-  * **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文速報（ソフトウェア工学研究会）
+# 受賞など
+## 研究に関する受賞など
+  * **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会）
   <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
   * **<u>嶋利 一真</u>**，日本ソフトウェア科学会， "ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)]
@@ -113,6 +114,11 @@
   * 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)]
  
   * **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)]
+
+## 論文執筆を指導した学生の受賞
+  * 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
+  
+  * 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
 
 # 活動
 ## 学会活動
@@ -158,9 +164,7 @@
 ## 公開中のツール
   * [NOD4J](https://github.com/k-shimari/nod4j): 実行時の変数情報を記録，可視化するツール
 
-<!-- ## 指導学生の受賞
-  * 北岡 哲哉，IEEE Young Researcher Award，2022
-  * 北岡 哲哉，貢献賞（フルペーパー），FOSE，2022 -->
+
 
 <!-- ## 研究費
   * 科研費
