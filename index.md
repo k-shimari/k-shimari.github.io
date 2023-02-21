@@ -13,7 +13,7 @@ My research interests include software debugging, dynamic analysis, program comp
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                   Near-Omniscient Debugging Tool for Java Using Size-Limited Execution
                   Trace," Science of Computer Programming, vol.206, pp102630, June 2021
-                  [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)]
+                  <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
   * Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on
@@ -38,7 +38,8 @@ My research interests include software debugging, dynamic analysis, program comp
 
   * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in both
                   Code and Execution Trace," Proceedings of the 30th IEEE International
-                  Conference on Program Coprehension (ICPC 2022), pp.528-532, Online, May 2022 [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)]<!-- Acceptance rate 38% (5/13) -->
+                  Conference on Program Coprehension (ICPC 2022), pp.528-532, Online, May 2022.
+                  <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)]Acceptance rate 38% (5/13) -->
 
   * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging
                   environment," Proceedings of the 29th IEEE International Conference
@@ -48,13 +49,14 @@ My research interests include software debugging, dynamic analysis, program comp
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Near-Omniscient
                   Debugging for Java Using Size-Limited Execution Trace," Proceedings of
                   the 35th IEEE International Conference on Software Maintenance and
-                  Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019
-                  [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] <!-- Acceptance rate 58% (11/19) -->
+                  Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019.
+                  <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] Acceptance rate 58% (11/19) -->
 
   * Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "PADLA: A Dynamic Log Level Adapter
                   Using Online Phase Detection," Proceedings of the IEEE/ACM 27th
                   International Conference on Program Comprehension (ICPC 2019),
-                  pp.135-138, Montreal, Quebec, Canada, May 2019 [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)]
+                  pp.135-138, Montreal, Quebec, Canada, May 2019 
+                  <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] -->
 
 ## Award
   * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
