@@ -39,7 +39,7 @@ My research interests include software debugging, dynamic analysis, program comp
   * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in both
                   Code and Execution Trace," Proceedings of the 30th IEEE International
                   Conference on Program Coprehension (ICPC 2022), pp.528-532, Online, May 2022.
-                  <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)]Acceptance rate 38% (5/13) -->
+                  <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 38% (5/13) -->
 
   * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging
                   environment," Proceedings of the 29th IEEE International Conference
@@ -58,7 +58,7 @@ My research interests include software debugging, dynamic analysis, program comp
                   pp.135-138, Montreal, Quebec, Canada, May 2019 
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] -->
 
-## Award
+<!-- ## Award
   * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
                   Grades", Japan Student Services Organization (JASSO) Type I
                   (interest-free) scholarship", May 2019
@@ -69,7 +69,7 @@ My research interests include software debugging, dynamic analysis, program comp
                   Award", IPSJ/SIGSE Software Engineering Symphosium, September 2018
 
   * **<u>Kazumasa Shimari</u>**, "The Enouragement Award of Student Presentation", IPSJ/SIGSE
-                  Software Engineering Symphosium, September 2017
+                  Software Engineering Symphosium, September 2017 -->
 
 # Activity
 ## Academic Service
@@ -78,9 +78,10 @@ My research interests include software debugging, dynamic analysis, program comp
   
   * Journal Peer Review
     * Empirical Software Engineering (2022)
+    * Computer Software (2023)
   
-  * Student Volunteer
-    * APSEC2018  
+  <!-- * Student Volunteer
+    * APSEC2018   -->
   
 ## Lecture
   * 2022: Software Engineering 
@@ -127,3 +128,5 @@ My research interests include software debugging, dynamic analysis, program comp
   * [NOD4J](https://github.com/k-shimari/nod4j): Tool for
                   recording and visualizing the values of variable in execution
                   near-omnisciently
+  * [PADLA](https://github.com/inoueke-n/PADLA): Tool for dynamically adjusting the log level threshold of a running system
+  * [ObfusEval](https://github.com/NAIST-SE/ObfusEval): Benchmarking tool to evaluate the reliability of the code obfuscating transformation
