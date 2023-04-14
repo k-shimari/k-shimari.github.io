@@ -152,8 +152,8 @@
     * APSEC2022 Technical and ERA Track
   
   * Journal Peer Review
-    * Empirical Software Engineering (2022)
     * コンピュータソフトウェア（2023）
+    * Empirical Software Engineering (2022)
   
   <!-- * Student Volunteer
     * APSEC2018   -->
@@ -189,15 +189,15 @@
   * 卒業論文: "ソフトウェア障害分析のための低侵襲な実行モニタリングツールの試作", 2017年2月[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.en/155.html)] -->
 
 ## 公開中のツール
-  * [NOD4J](https://github.com/k-shimari/nod4j): プログラム実行時の変数情報を記録，可視化するツール
-  * [PADLA](https://github.com/inoueke-n/PADLA): プログラムの状態に応じて動的にロギング設定を変更することで，ログ取得量を変更するツール（溝内 剛 氏が開発）
   * [ObfusEval](https://github.com/NAIST-SE/ObfusEval): 難読化の信頼性を評価するためのベンチマーキングツール （北岡 哲哉 氏が開発）
+  * [PADLA](https://github.com/inoueke-n/PADLA): プログラムの状態に応じて動的にロギング設定を変更することで，ログ取得量を変更するツール（溝内 剛 氏が開発）
+  * [NOD4J](https://github.com/k-shimari/nod4j): プログラム実行時の変数情報を記録，可視化するツール
 
 
 ## 研究費
   * 科研費
-    * 利用機能の実行時情報解析による厳密かつ効率的なライブラリの互換性検証手法，研究活動スタート支援，2022年度～2023年度 
     * ロギング設定の出力に関する分析とプロジェクトの特性に応じた最適化支援，若手研究，2023年度～2025年度
+    * 利用機能の実行時情報解析による厳密かつ効率的なライブラリの互換性検証手法，研究活動スタート支援，2022年度～2023年度 
   * その他
-    * 栢森情報科学振興財団 研究助成 <!--2022年度 採択率 21% 21件/97件 -->
     * 一般財団法人中西奨学会 研究助成 <!--2023年度 採択率 26% 5件/19件 -->
+    * 栢森情報科学振興財団 研究助成 <!--2022年度 採択率 21% 21件/97件 -->
