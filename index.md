@@ -74,17 +74,20 @@ My research interests include software debugging, dynamic analysis, program comp
 # Activity
 ## Academic Service
   * Program Committee Member
+    * APSEC2023 Technical 
+    * ICPC2023 Technical Track and Tool Demonstration Track
     * APSEC2022 Technical and ERA 
   
   * Journal Peer Review
-    * Empirical Software Engineering (2022)
     * Computer Software (2023)
+    * Empirical Software Engineering (2022)
   
   <!-- * Student Volunteer
     * APSEC2018   -->
   
 ## Lecture
-  * 2022: Software Engineering 
+  * 2023-: Programming Practice (NAIST)
+  * 2022-: Software Engineering (NAIST)
 
 <!-- ## TA・RA
   * 2019.07-2021.06: Specially Appointed Researcher (OTRI, Osaka Univ.)

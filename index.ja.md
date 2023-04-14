@@ -147,8 +147,9 @@
 # 活動
 ## 学会活動
   * Program Committee Member
-    * APSEC2022 Technical and ERA Track
     * ICPC2023 Technical Track and Tool Demonstration Track
+    * FOSE2023 
+    * APSEC2022 Technical and ERA Track
   
   * Journal Peer Review
     * Empirical Software Engineering (2022)
@@ -158,7 +159,8 @@
     * APSEC2018   -->
 
 ## 講義
-  * 2022: ソフトウェア工学
+  * 2023-: プログラミング演習 (NAIST)
+  * 2022-: ソフトウェア工学 (NAIST)
 
 # その他
 ## 学歴・職歴
