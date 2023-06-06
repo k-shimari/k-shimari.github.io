@@ -125,8 +125,12 @@
 ## 招待講演
   * 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
 
+## その他
+  * 博士号とった人に聞いてみた，情報処理学会，会誌「情報処理」Vol.64，No.5，pp.221-225 (2023.04)
+
 # 受賞など
 ## 研究に関する受賞など
+  * **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
   * **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会）
   <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
@@ -147,11 +151,13 @@
 # 活動
 ## 学会活動
   * Program Committee Member
-    * ICPC2023 Technical Track and Tool Demonstration Track
+    * APSEC2023 Technical Track
     * FOSE2023 
+    * ICPC2023 Technical Track and Tool Demonstration Track
     * APSEC2022 Technical and ERA Track
   
   * Journal Peer Review
+    * 情報処理学会論文誌（2023）
     * コンピュータソフトウェア（2023）
     * Empirical Software Engineering (2022)
   

@@ -6,7 +6,7 @@ Assistant Professor, [Software Engineering Laboratory](https://naist-se.github.i
 E-mail：k.shimari@is.(+naist.jp)
 
 # Research Interests
-My research interests include software debugging, dynamic analysis, program comprehension.
+My research interests include software debugging, dynamic analysis, program comprehension, programming education.
 
 # Publications
 ## Journal Papers
@@ -58,8 +58,9 @@ My research interests include software debugging, dynamic analysis, program comp
                   pp.135-138, Montreal, Quebec, Canada, May 2019 
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] -->
 
-<!-- ## Award
-  * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
+ ## Award
+  * ICPC 2023 Distinguished Reviewer Award
+<!--  * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
                   Grades", Japan Student Services Organization (JASSO) Type I
                   (interest-free) scholarship", May 2019
 
@@ -74,11 +75,12 @@ My research interests include software debugging, dynamic analysis, program comp
 # Activity
 ## Academic Service
   * Program Committee Member
-    * APSEC2023 Technical 
+    * APSEC2023 Technical Track
     * ICPC2023 Technical Track and Tool Demonstration Track
     * APSEC2022 Technical and ERA 
   
   * Journal Peer Review
+    * IPSJ (2023)
     * Computer Software (2023)
     * Empirical Software Engineering (2022)
   
@@ -88,16 +90,6 @@ My research interests include software debugging, dynamic analysis, program comp
 ## Lecture
   * 2023-: Programming Practice (NAIST)
   * 2022-: Software Engineering (NAIST)
-
-<!-- ## TA・RA
-  * 2019.07-2021.06: Specially Appointed Researcher (OTRI, Osaka Univ.)
-  * 2019.04-2019.06: Research Assistant (IST, Osaka Univ.)
-  * 2018.06-2018.09: Cloud Spiral (IST, Osaka Univ.)
-  * 2017.10-2018.02: Computer Language Processing (ES, Osaka Univ.) -->
-
-<!-- ## Special Program
-  * 2017:Cloud Spiral Cloud Specialist Program Initiative for
-                  Reality-based Advanced Learning(Cloud Spiral) -->
 
 # Other
 ## Education & Career
