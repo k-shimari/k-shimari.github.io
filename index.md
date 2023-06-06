@@ -58,7 +58,7 @@ My research interests include software debugging, dynamic analysis, program comp
                   pp.135-138, Montreal, Quebec, Canada, May 2019 
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] -->
 
- ## Award
+## Award
   * ICPC 2023 Distinguished Reviewer Award
 <!--  * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
                   Grades", Japan Student Services Organization (JASSO) Type I
