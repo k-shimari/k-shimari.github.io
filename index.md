@@ -60,20 +60,15 @@ My research interests include software debugging, dynamic analysis, program comp
 
 ## Award
   * ICPC 2023 Distinguished Reviewer Award
-
-  <!--  
-  * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
+ 
+  <!-- * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
                   Grades", Japan Student Services Organization (JASSO) Type I
-                  (interest-free) scholarship", May 2019
-
-  * **<u>Kazumasa Shimari</u>**, "The Live Paper and Poster Award", JSSST FOSE2018 , November 2018
-
-  * Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "The Interactive
-                  Award", IPSJ/SIGSE Software Engineering Symphosium, September 2018
-
-  * **<u>Kazumasa Shimari</u>**, "The Enouragement Award of Student Presentation", IPSJ/SIGSE
-                  Software Engineering Symphosium, September 2017 
-  -->
+                  (interest-free) scholarship", May 2019  -->
+  <!-- * **<u>Kazumasa Shimari</u>**, "The Live Paper and Poster Award", JSSST FOSE2018 , November 2018 -->
+  <!-- * Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "The Interactive
+                  Award", IPSJ/SIGSE Software Engineering Symphosium, September 2018 -->
+  <!-- * **<u>Kazumasa Shimari</u>**, "The Enouragement Award of Student Presentation", IPSJ/SIGSE
+                  Software Engineering Symphosium, September 2017 -->
 
 # Activity
 ## Academic Service
