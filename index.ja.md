@@ -34,7 +34,7 @@
 * **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution, pp.564 -567, Limassol, Cyprus, Oct. 2022 <!--Industry Track [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
 
 * Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in
-                both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Coprehension (ICPC 2022), pp.528-532, 
+                both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Comprehension (ICPC 2022), pp.528-532, 
                 Online, May 2022.
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] -->
                   <!-- Acceptance rate 38% (5/13) -->
