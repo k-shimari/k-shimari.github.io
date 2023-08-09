@@ -28,6 +28,8 @@ My research interests include software debugging, dynamic analysis, program comp
                   No.4, pp.107-113, October 2019
 
 ##  Conference and Workshop Papers
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.xx-xx (2pages), Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 45% (10/22) -->
+  
   * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
   * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones, pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
@@ -59,6 +61,8 @@ My research interests include software debugging, dynamic analysis, program comp
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] -->
 
 ## Award
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poste and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+
   * ICPC 2023 Distinguished Reviewer Award
  
   <!-- * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
@@ -74,10 +78,12 @@ My research interests include software debugging, dynamic analysis, program comp
 ## Academic Service
   * Program Committee Member
     * APSEC2023 Technical Track
-    * ICPC2023 Technical Track and Tool Demonstration Track
-    * APSEC2022 Technical and ERA 
+    * WSSE2023 Technical Track
+    * ICPC2023 Research Track and Tool Demonstration Track
+    * APSEC2022 Technical and ERA Track
   
   * Journal Peer Review
+    * IEICE (2023)
     * IPSJ (2023)
     * Computer Software (2023)
     * Empirical Software Engineering (2022)

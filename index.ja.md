@@ -25,6 +25,8 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
+* Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.xx-xx (2pages), Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 45% (10/22) -->
+  
 * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
 * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
@@ -71,6 +73,8 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)] -->
 
 ## 研究会・全国大会等
+  * 田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"確率モデルを用いた初学者向け構文エラー修正支援手法の検討"，情報処理学会研究報告, vol.2023-SE-214, no.14, pp.1-8，札幌，北海道 (2023.07)
+
   * 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"プログラミング演習におけるエラー自動解説の有用性の評価"，情報処理学会研究報告, vol.2023-SE-213, no.6, pp.1-8，戸塚，神奈川 (2023.03)
 
   * 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"Topic通信処理記述の解析によるROSアプリケーションのデータフローの可視化"，情報処理学会研究報告, vol.2022-SE-212, no.10, pp.1-8，滋賀 (2022.12)
@@ -130,7 +134,10 @@
 
 # 受賞など
 ## 研究に関する受賞など
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poste and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+  
   * **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
+  
   * **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会）
   <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
@@ -153,10 +160,12 @@
   * Program Committee Member
     * APSEC2023 Technical Track
     * FOSE2023 
-    * ICPC2023 Technical Track and Tool Demonstration Track
+    * WSSE2023 Technical Track
+    * ICPC2023 Research Track and Tool Demonstration Track
     * APSEC2022 Technical and ERA Track
   
   * Journal Peer Review
+    * 電子情報通信学会論文誌（2023）
     * 情報処理学会論文誌（2023）
     * コンピュータソフトウェア（2023）
     * Empirical Software Engineering (2022)
