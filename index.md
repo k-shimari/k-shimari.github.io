@@ -10,6 +10,8 @@ My research interests include software debugging, dynamic analysis, program comp
 
 # Publications
 ## Journal Papers
+  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software (Accepted to appear).
+
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                   Near-Omniscient Debugging Tool for Java Using Size-Limited Execution
                   Trace," Science of Computer Programming, vol.206, pp102630, June 2021
@@ -28,6 +30,8 @@ My research interests include software debugging, dynamic analysis, program comp
                   No.4, pp.107-113, October 2019
 
 ##  Conference and Workshop Papers
+  * Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), pp.XX -XX, Bogota, Columbia, Oct. 2023.
+
   * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.xx-xx (2pages), Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 45% (10/22) -->
   
   * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
@@ -45,7 +49,7 @@ My research interests include software debugging, dynamic analysis, program comp
 
   * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging
                   environment," Proceedings of the 29th IEEE International Conference
-                  on Software Analysis, Evolution and Reengineering (SANER 2022), Online,
+                  on Software Analysis, Evolution and Reengineering (SANER 2022), Online, pp.497--501,
                   March 2022 <!-- Acceptance rate 75% (9/12) -->
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Near-Omniscient
@@ -61,7 +65,7 @@ My research interests include software debugging, dynamic analysis, program comp
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)] -->
 
 ## Award
-  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poste and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
 
   * ICPC 2023 Distinguished Reviewer Award
  

@@ -9,6 +9,8 @@
 
 # 論文
 ## 論文誌
+  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software (Accepted to appear).
+  
   * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, November 2022.
  
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
@@ -25,6 +27,8 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
+* Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), pp.XX -XX, Bogota, Columbia, Oct. 2023.
+
 * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.xx-xx (2pages), Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 45% (10/22) -->
   
 * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
@@ -44,7 +48,7 @@
 * Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio,
                 "JISDLab: A web-based interactive literate debugging environment,"
                 Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER
-                2022), March 2022 <!-- Acceptance rate 75% (9/12) -->
+                2022), pp.497--501, March 2022 <!-- Acceptance rate 75% (9/12) -->
 
 * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Near-Omniscient Debugging for
                 Java Using Size-Limited Execution Trace," 35th IEEE International Conference on Software Maintenance and
@@ -130,11 +134,13 @@
   * 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
 
 ## その他
+  * 夏期特別講座，奈良北高等学校 (2023.07)
+
   * 博士号とった人に聞いてみた，情報処理学会，会誌「情報処理」Vol.64，No.5，pp.221-225 (2023.04)
 
 # 受賞など
 ## 研究に関する受賞など
-  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poste and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
   
   * **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
   
