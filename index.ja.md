@@ -27,9 +27,9 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
-* Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), pp.XX -XX, Bogota, Columbia, Oct. 2023.
+* Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, Oct. 2023. <!-- Acceptance rate 39% (13/33) -->
 
-* Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.xx-xx (2pages), Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 45% (10/22) -->
+* Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.199-200, Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 41% (9/22) -->
   
 * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
@@ -61,7 +61,8 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)]  -->
                 
 ## 国内会議（査読有り）
-
+  * 藤原 勇真，神田 哲也，嶋利 一真，肥後 芳樹，"行単位の依存関係を用いたテスト選択手法の提案，" ソフトウェアエンジニアリングシンポジウム2023，ソフトウェアエンジニアリングシンポジウム2023論文集，vol.2023，pp242 -243，早稲田，東京 (2023.08)
+  
   * 北岡 哲哉，神崎 雄一郎，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"コード難読化ツールの信頼性を評価するフレームワークの検討"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022，ソフトウェア工学の基礎29，pp.170-179，島根 (2022.11)
 
   * 内田 啓太，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"2つのWebアプリケーション間の類似する操作対象の対応関係抽出"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022，ソフトウェア工学の基礎29，pp.198-199，島根 (2022.11)
@@ -77,7 +78,11 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)] -->
 
 ## 研究会・全国大会等
-  * 田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"確率モデルを用いた初学者向け構文エラー修正支援手法の検討"，情報処理学会研究報告, vol.2023-SE-214, no.14, pp.1-8，札幌，北海道 (2023.07)
+  * 岡井 光輝，嶋利 一真，石尾 隆，松本　健一，"型とスコープに着目した一文字変数の利用状況の調査，" ソフトウェアエンジニアリングシンポジウム2023，早稲田，東京 (2023.08)
+
+  * 山岡 厚仁，嶋利 一真，石尾 隆，松本　健一，"実行トレースの差分を用いたライブラリ非互換性の分析支援，" ソフトウェアエンジニアリングシンポジウム2023，早稲田，東京 (2023.08)
+
+  * 田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"確率モデルを用いた初学者向け構文エラー修正支援手法の検討"，情報処理学会研究報告，vol.2023-SE-214，no.14，pp.1-8，札幌，北海道 (2023.07)
 
   * 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"プログラミング演習におけるエラー自動解説の有用性の評価"，情報処理学会研究報告, vol.2023-SE-213, no.6, pp.1-8，戸塚，神奈川 (2023.03)
 
@@ -140,14 +145,14 @@
 
 # 受賞など
 ## 研究に関する受賞など
-  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+  * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
   
   * **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
   
   * **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会）
   <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
-  * **<u>嶋利 一真</u>**，日本ソフトウェア科学会， "ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) 
+  * **<u>嶋利 一真</u>**，日本ソフトウェア科学会，"ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) 
   <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)] -->
  
   * 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) 
@@ -164,6 +169,8 @@
 # 活動
 ## 学会活動
   * Program Committee Member
+    * SANER2024 ERA Track
+    * ICPC2024 Research Track
     * APSEC2023 Technical Track
     * FOSE2023 
     * WSSE2023 Technical Track
