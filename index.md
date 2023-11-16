@@ -23,11 +23,11 @@ My research interests include software debugging, dynamic analysis, program comp
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method
                   for similar source code fragment search," IEICE TRANSACTIONS on
-                  Information and Systems, Vol.J103-D, No.10, pp.751-753, October 2020
+                  Information and Systems, Vol.J103-D, No.10, pp.751-753, October 2020.
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method
                   using a limited size storage for Java," Computer Software, Vol.36,
-                  No.4, pp.107-113, October 2019
+                  No.4, pp.107-113, October 2019.
 
 ##  Conference and Workshop Papers
   * Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, Oct. 2023.  <!-- Acceptance rate 39% (13/33) -->
