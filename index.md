@@ -10,11 +10,11 @@ My research interests include dynamic analysis, program comprehension, programmi
 
 # Publications
 ## Journal Papers
-  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software (Accepted to appear).
+  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                   Near-Omniscient Debugging Tool for Java Using Size-Limited Execution
-                  Trace," Science of Computer Programming, vol.206, pp102630, June 2021
+                  Trace," Science of Computer Programming, vol.206, pp102630, Jun. 2021
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
@@ -23,11 +23,11 @@ My research interests include dynamic analysis, program comprehension, programmi
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method
                   for similar source code fragment search," IEICE TRANSACTIONS on
-                  Information and Systems, Vol.J103-D, No.10, pp.751-753, October 2020.
+                  Information and Systems, Vol.J103-D, No.10, pp.751-753, Oct. 2020.
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method
                   using a limited size storage for Java," Computer Software, Vol.36,
-                  No.4, pp.107-113, October 2019.
+                  No.4, pp.107-113, Oct. 2019.
 
 ##  Conference and Workshop Papers
   * Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," 7th Workshop on Validation, Analysis and Evolution of Software Tests (VST 2024), Rovaniemi, Finland, pp.xx-xx, Mar. 2024. 
