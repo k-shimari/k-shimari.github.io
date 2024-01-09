@@ -6,7 +6,7 @@ Assistant Professor, [Software Engineering Laboratory](https://naist-se.github.i
 E-mail：k.shimari@is.(+naist.jp)
 
 # Research Interests
-My research interests include software debugging, dynamic analysis, program comprehension, programming education.
+My research interests include dynamic analysis, program comprehension, programming education, software testing.
 
 # Publications
 ## Journal Papers
@@ -30,7 +30,11 @@ My research interests include software debugging, dynamic analysis, program comp
                   No.4, pp.107-113, October 2019.
 
 ##  Conference and Workshop Papers
-  * Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, Oct. 2023.  <!-- Acceptance rate 39% (13/33) -->
+  * Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," 7th Workshop on Validation, Analysis and Evolution of Software Tests (VST 2024), Rovaniemi, Finland, pp.xx-xx, Mar. 2024. 
+
+  * Atsuhito Yamaoka, Teyon son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.xx-xx, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
+
+  * Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, pp.397-402, Oct. 2023.  <!-- Acceptance rate 39% (13/33) -->
 
   * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training (CSEE&T), pp.199-200, Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 41% (9/22) -->
   
@@ -81,12 +85,12 @@ My research interests include software debugging, dynamic analysis, program comp
 # Activity
 ## Academic Service
   * Program Committee Member
-    * SANER2024 ERA Track
-    * ICPC2024 Research Track
-    * APSEC2023 Technical Track
-    * WSSE2023 Technical Track
-    * ICPC2023 Research Track and Tool Demonstration Track
-    * APSEC2022 Technical and ERA Track
+    * SANER 2024 ERA Track
+    * ICPC 2024 Research Track
+    * APSEC 2023 Technical Track
+    * WSSE 2023 Technical Track
+    * ICPC 2023 Research Track and Tool Demonstration Track
+    * APSEC 2022 Technical and ERA Track
   
   * Journal Peer Review
     * IEICE (2023)

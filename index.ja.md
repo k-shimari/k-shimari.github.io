@@ -27,7 +27,11 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
-* Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, Oct. 2023. <!-- Acceptance rate 39% (13/33) -->
+* Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," 7th Workshop on Validation, Analysis and Evolution of Software Tests (VST 2024), Rovaniemi, Finland, pp.xx-xx, Mar. 2024. 
+
+* Atsuhito Yamaoka, Teyon son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.xx-xx, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
+
+* Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, pp.397-402, Oct. 2023. <!-- Acceptance rate 39% (13/33) -->
 
 * Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.199-200, Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 41% (9/22) -->
   
@@ -143,7 +147,7 @@
   * 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
 
 ## その他
-  * 夏期特別講座，奈良北高等学校 (2023.07)
+  * 夏期特別講座，奈良県立奈良北高等学校 (2023.07)
 
   * 博士号とった人に聞いてみた，情報処理学会，会誌「情報処理」Vol.64，No.5，pp.221-221 (2023.04)
 
@@ -173,13 +177,13 @@
 # 活動
 ## 学会活動
   * Program Committee Member
-    * SANER2024 ERA Track
-    * ICPC2024 Research Track
-    * APSEC2023 Technical Track
-    * FOSE2023 
-    * WSSE2023 Technical Track
-    * ICPC2023 Research Track and Tool Demonstration Track
-    * APSEC2022 Technical and ERA Track
+    * SANER 2024 ERA Track
+    * ICPC 2024 Research Track
+    * APSEC 2023 Technical Track
+    * FOSE 2023 
+    * WSSE 2023 Technical Track
+    * ICPC 2023 Research Track and Tool Demonstration Track
+    * APSEC 2022 Technical and ERA Track
   
   * Journal Peer Review
     * 電子情報通信学会論文誌（2023）
@@ -204,14 +208,14 @@
 
   * 2013.04-2017.03: 大阪大学 基礎工学部情報科学科 学士（工学）
 
-## TA・RAなど
+<!-- ## TA・RAなど
   * 2019.07-2021.06: 特任研究員S　先導的学際研究機構
 
   * 2019.04-2019.06: Research Assistant　大阪大学大学院情報科学研究科
 
   * 2018.06-2018.09: Cloud Spiral　大阪大学大学院情報科学研究科
 
-  * 2017.09-2018.02: 言語処理工学A　大阪大学基礎工学部情報科学科
+  * 2017.09-2018.02: 言語処理工学A　大阪大学基礎工学部情報科学科 -->
 
 <!-- ## 学位論文
   * 博士論文: "Study on Cost-Effective Debugging Methods under Restricted Resources（限られた資源を用いた効率的なデバッグ手法に関する研究）" 2022年3月 [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Dthesis/contents.ja/41.html)]
