@@ -10,11 +10,13 @@ My research interests include dynamic analysis, program comprehension, programmi
 
 # Publications
 ## Journal Papers
+  * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.xxx, pp.103117, 2024.
+
   * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
 
   * **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                   Near-Omniscient Debugging Tool for Java Using Size-Limited Execution
-                  Trace," Science of Computer Programming, vol.206, pp102630, Jun. 2021
+                  Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021
                   <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
