@@ -123,7 +123,7 @@ My research interests include dynamic analysis, program comprehension, programmi
   * 2013.04-2017.03: Bachelor of Information and Computer Sciences School
                   of Engineering Science, Osaka University
 
-## Thesis
+<!-- ## Thesis
   * Ph.D. Thesis: "Study on Cost-Effective Debugging Methods under
                   Restricted Resources" (2022.03) [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/Dthesis/contents.ja/41.html)]
 
@@ -133,7 +133,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 
   * Bachelor Thesis: "Developing the prototype of a low invasive execution
                   monitoring tool for software failure analysis", February 2017 (in
-                  Japanese)[[detail](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.en/155.html)]
+                  Japanese)[[detail](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.en/155.html)] -->
 
 ## OSS
   * [ObfusEval](https://github.com/NAIST-SE/ObfusEval): Benchmarking tool to evaluate the reliability of the code obfuscating transformation
