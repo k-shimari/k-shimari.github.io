@@ -13,7 +13,7 @@
 
   * 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.Jxxx-D, No.x, pp.xx-xx.
 
-  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp. 37-46, Oct. 2023.
+  * Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
   
   * 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, Nov. 2022.
  
@@ -183,22 +183,30 @@
   * 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
 
 # 活動
-## 学会活動
-  * Program Committee Member
+## 学会活動 （国際）
+  * Program Committee Member 
+    * ICSME 2024 Registered Reports Track
+    * WSSE 2024 Technical Track
     * SANER 2024 ERA Track
     * ICPC 2024 Research Track
     * APSEC 2023 Technical Track
-    * FOSE 2023 
     * WSSE 2023 Technical Track
     * ICPC 2023 Research Track and Tool Demonstration Track
     * APSEC 2022 Technical and ERA Track
-  
+
   * Journal Peer Review
-    * 電子情報通信学会論文誌（2023）
-    * 情報処理学会論文誌（2023）
-    * コンピュータソフトウェア（2023）
     * Empirical Software Engineering (2022)
-  
+
+## 学会活動 （国内）
+  * 情報処理学会 ソフトウェア工学研究会
+    * ソフトウェアエンジニアリングシンポジウム 既発表・招待論文委員長 (2024)
+    * 情報処理学会論文誌 査読委員（2023）    
+  * ソフトウェア科学会
+    * ソフトウェア工学の基礎ワークショップ プログラム委員 (2023)
+    * コンピュータソフトウェア 査読委員（2023, 2024）
+  * 電子情報通信学会
+    * 電子情報通信学会論文誌D 査読委員（2023）
+
   <!-- * Student Volunteer
     * APSEC2018   -->
 
