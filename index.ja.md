@@ -56,10 +56,15 @@
                   
 ## 国内会議（査読有り）
 1. 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，肥後 芳樹，"行単位の依存関係を用いたテスト選択手法の提案，" ソフトウェアエンジニアリングシンポジウム2023，ソフトウェアエンジニアリングシンポジウム2023論文集，vol.2023，pp242-243，早稲田，東京 (2023.08)
+
 2. 北岡 哲哉，神崎 雄一郎，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"コード難読化ツールの信頼性を評価するフレームワークの検討"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022，ソフトウェア工学の基礎29，pp.170-179，島根 (2022.11)
+
 3. 内田 啓太，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"2つのWebアプリケーション間の類似する操作対象の対応関係抽出"，JSSST 第29回 ソフトウェア工学の基礎ワークショップ FOSE2022，ソフトウェア工学の基礎29，pp.198-199，島根 (2022.11)
+
 4. 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"プログラム実行に対するフェイズ検出を用いたログ取得量の動的変更手法の提案"，ウィンターワークショップ2019・イン・福島飯坂論文集，pp.17-18，福島 (2019.01) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1144.html)] -->
+
 5. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"ライブラリのバージョン更新支援のための実行トレースからのテストケース生成"，ウィンターワークショップ2018・イン・宮島論文集，pp.22-23，広島 (2018.01) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1107.html)] -->
+
 6. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)] -->
    
 ## 研究会・全国大会等
@@ -120,10 +125,15 @@
 # 受賞など
 ## 研究に関する受賞など
 1. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+
 2. **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
+
 3. **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会） <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
+
 4. **<u>嶋利 一真</u>**，日本ソフトウェア科学会，"ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)] -->
+
 5. 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)] -->
+
 6. **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)] -->
    
 ## 論文執筆を指導した学生の受賞
