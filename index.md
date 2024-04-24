@@ -33,6 +33,9 @@ My research interests include dynamic analysis, program comprehension, programmi
 10. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Near-Omniscient Debugging for Java Using Size-Limited Execution Trace," 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] Acceptance rate 58% (11/19) -->
 11. Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "PADLA: A Dynamic Log Level Adapter Using Online Phase Detection," Proceedings of the IEEE/ACM 27th International Conference on Program Comprehension (ICPC 2019), pp.135-138, Montreal, Quebec, Canada, May 2019. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)]  -->
 
+## Other Presentations
+1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
+
 ## Award
 1. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
 2. ICPC 2023 Distinguished Reviewer Award
