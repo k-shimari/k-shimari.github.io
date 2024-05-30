@@ -68,8 +68,9 @@ My research interests include dynamic analysis, program comprehension, programmi
 # Activity
 ## Academic Service
   * Program Committee Member
-    * ICSME 2024 Registered Reports Track
+    * APSEC 2024 Technical Track
     * WSSE 2024 Technical Track
+    * ICSME 2024 Registered Reports Track
     * SANER 2024 ERA Track
     * ICPC 2024 Research Track
     * APSEC 2023 Technical Track

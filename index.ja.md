@@ -144,8 +144,9 @@
 # 活動
 ## 学会活動 （国際）
   * Program Committee Member 
-    * ICSME 2024 Registered Reports Track
+    * APSEC 2024 Technical Track
     * WSSE 2024 Technical Track
+    * ICSME 2024 Registered Reports Track
     * SANER 2024 ERA Track
     * ICPC 2024 Research Track
     * APSEC 2023 Technical Track
@@ -161,7 +162,7 @@
     * ソフトウェアエンジニアリングシンポジウム 既発表・招待論文委員長 (2024)
     * 情報処理学会論文誌 査読委員（2023）    
   * ソフトウェア科学会
-    * ソフトウェア工学の基礎ワークショップ プログラム委員 (2023)
+    * ソフトウェア工学の基礎ワークショップ プログラム委員 (2023, 2024)
     * コンピュータソフトウェア 査読委員（2023, 2024）
   * 電子情報通信学会
     * 電子情報通信学会論文誌D 査読委員（2023）
