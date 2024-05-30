@@ -117,6 +117,7 @@ My research interests include dynamic analysis, program comprehension, programmi
                   Japanese)[[detail](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.en/155.html)] -->
 
 ## OSS
+  * [Java-SLVE](https://github.com/KokiOkai/Java-SLVE): Tool for evaluating the usage of single-letter variables in the target project
   * [ObfusEval](https://github.com/NAIST-SE/ObfusEval): Benchmarking tool to evaluate the reliability of the code obfuscating transformation
   * [PADLA](https://github.com/inoueke-n/PADLA): Tool for dynamically adjusting the log level threshold of a running system
   * [NOD4J](https://github.com/k-shimari/nod4j): Tool for

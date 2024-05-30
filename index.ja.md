@@ -201,6 +201,7 @@
   * 卒業論文: "ソフトウェア障害分析のための低侵襲な実行モニタリングツールの試作", 2017年2月[[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/Bthesis/contents.en/155.html)] -->
 
 ## 公開中のツール
+  * [Java-SLVE](https://github.com/KokiOkai/Java-SLVE): 一文字変数が適切な利用をされているか評価するためのツール　（岡井 光輝 氏が開発）
   * [ObfusEval](https://github.com/NAIST-SE/ObfusEval): 難読化の信頼性を評価するためのベンチマーキングツール （北岡 哲哉 氏が開発）
   * [PADLA](https://github.com/inoueke-n/PADLA): プログラムの状態に応じて動的にロギング設定を変更することで，ログ取得量を変更するツール（溝内 剛 氏が開発）
   * [NOD4J](https://github.com/k-shimari/nod4j): プログラム実行時の変数情報を記録，可視化するツール
