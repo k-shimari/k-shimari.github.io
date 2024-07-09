@@ -11,7 +11,7 @@
 ## 論文誌
 1. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
    
-2. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.Jxxx-D, No.x, pp.xx-xx.
+2. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.J107-D, No.7, pp.420-423, Jul. 2024.
 
 3. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
   
@@ -33,7 +33,7 @@
 ## 国際会議・ワークショップ（査読有り）
 1. Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," Proceedings of the International Conference on Software Analysis, Evolution and Reengineering - Companion (VST 2024), Rovaniemi, Finland, pp.167-174, Mar. 2024. 
 
-2. Atsuhito Yamaoka, Teyon son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
+2. Atsuhito Yamaoka, Teyon Son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
 
 3. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, pp.397-402, Oct. 2023. <!-- Acceptance rate 39% (13/33) -->
 
@@ -162,6 +162,7 @@
     * ソフトウェアエンジニアリングシンポジウム 既発表・招待論文委員長 (2024)
     * 情報処理学会論文誌 査読委員（2023）    
   * ソフトウェア科学会
+    * 日本ソフトウェア科学会第41回大会 ポスター委員長 (2024)
     * ソフトウェア工学の基礎ワークショップ プログラム委員 (2023, 2024)
     * コンピュータソフトウェア 査読委員（2023, 2024）
   * 電子情報通信学会

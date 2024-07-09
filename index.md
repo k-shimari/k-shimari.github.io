@@ -10,14 +10,14 @@ My research interests include dynamic analysis, program comprehension, programmi
 
 # Publications
 ## Journal Papers
-1. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
+1. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024. <!-- 11 pages -->
 
 2. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
 
-3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J: Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021. <!-- [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
+3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J: Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021. <!--13 pages [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
-1. Yuto Murata, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Data Flow Visualization Using Coding Patterns of Topic Communication in ROS Applications," IEICE TRANSACTIONS on Information and Systems, Vol.Jxxx-D, No.x, pp.xx-xx, 2024.
+1. Yuto Murata, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Data Flow Visualization Using Coding Patterns of Topic Communication in ROS Applications," IEICE TRANSACTIONS on Information and Systems, Vol.J107-D, No.7, pp.420-423, Jul. 2024.
 
 2. Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on Information and Systems, Vol.J105-D, No.11, pp.717-719, Nov. 2022.
 
@@ -28,7 +28,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 ##  Conference and Workshop Papers
 1. Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," Proceedings of the International Conference on Software Analysis, Evolution and Reengineering - Companion (VST 2024), Rovaniemi, Finland, pp.167-174, Mar. 2024. 
 
-2. Atsuhito Yamaoka, Teyon son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
+2. Atsuhito Yamaoka, Teyon Son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
 
 3. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, pp.397-402, Oct. 2023.  <!-- Acceptance rate 39% (13/33) -->   
 
