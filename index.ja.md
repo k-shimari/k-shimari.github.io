@@ -31,12 +31,12 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
-1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization,"  accepted, ISSRE 2024.
+1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.109-110, Oct. 2024.
    
-2. Indira Febriyanti, Youmei Fan, Kazumasa Shimari, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," accepted, ISSRE 2024.
+2. Indira Febriyanti, Youmei Fan, **Kazumasa Shimari**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024.
 
-3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models," accepted, ICSME 2024.
-
+3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models," Proceedings of the 40th International Conference on Software Maintenance and Evolution, Arizona, USA, pp.624-629, Oct. 2024.
+   
 4. Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," Proceedings of the International Conference on Software Analysis, Evolution and Reengineering - Companion (VST 2024), Rovaniemi, Finland, pp.167-174, Mar. 2024. 
 
 5. Atsuhito Yamaoka, Teyon Son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
@@ -47,7 +47,7 @@
 
 8. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
-9. Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.62-68, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
+9.  Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.62-68, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
 10. **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022), pp.564 -567, Limassol, Cyprus, Oct. 2022 <!--Industry Track [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
 
@@ -62,7 +62,7 @@
                   
 ## 国内会議（査読有り）
 
-1. 田中 英武，井垣 宏，**<u>嶋利 一真</u>**，福安 直樹，松本 健一，"シナリオの導入による多様なプログラミング演習問題の自動生成手法の検討"，ソフトウェアエンジニアリングシンポジウム2024，採録決定．
+1. 田中 英武，井垣 宏，**<u>嶋利 一真</u>**，福安 直樹，松本 健一，"シナリオの導入による多様なプログラミング演習問題の自動生成手法の検討"，ソフトウェアエンジニアリングシンポジウム2024，ソフトウェアエンジニアリングシンポジウム2024論文集，vol. 2024，pp.222-231，日吉，神奈川 (2024.10)．
    
 2. 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，肥後 芳樹，"行単位の依存関係を用いたテスト選択手法の提案"，ソフトウェアエンジニアリングシンポジウム2023，ソフトウェアエンジニアリングシンポジウム2023論文集，vol.2023，pp242-243，早稲田，東京 (2023.08)
 
@@ -77,53 +77,55 @@
 7. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"ソフトウェアの実行を分析するための低侵襲なモニタリングツールの試作"，ソフトウェアエンジニアリングシンポジウム2017論文集，pp.224-227，東京 (2017.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1090.html)] -->
    
 ## 研究会・全国大会等
-1. 神田 哲也，橋本 悠樹，嶋利 一真，肥後 芳樹，"JCompaths: 実行経路の比較と可視化を行うコードレビュー向けツール"，日本ソフトウェア科学会第 41 回大会，茨木，大阪（2024.09）
+1. 神田 哲也，橋本 悠樹，**嶋利 一真**，肥後 芳樹，"JCompaths: 実行経路の比較と可視化を行うコードレビュー向けツール"，日本ソフトウェア科学会第 41 回大会，茨木，大阪（2024.09）
    
-2. 篠原 遼太郎，**<u>嶋利 一真</u>**，福島 和希，田中 慎之佑，石尾 隆，松本 健一，"Pythonプログラミング演習におけるプログラミング経験度とエラー修正時間の関係分析"，情報処理学会研究報告, vol.2024-SE-216, no.15, pp.1-8，目黒，東京  (2024.03)
+2. 井町 武稔，北岡 哲哉，**嶋利 一真**，早川潔，"PEファイルの特徴量を用いたマルウェアの特性と変異の調査"，日本高専学会 第30回年会講演会，ポスター，函館，北海道（2024.09）
+   
+3. 篠原 遼太郎，**<u>嶋利 一真</u>**，福島 和希，田中 慎之佑，石尾 隆，松本 健一，"Pythonプログラミング演習におけるプログラミング経験度とエラー修正時間の関係分析"，情報処理学会研究報告, vol.2024-SE-216, no.15, pp.1-8，目黒，東京  (2024.03)
   
-3. 岡井 光輝，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"Javaプロジェクトにおける一文字変数の利用方法とソースコード保守性への影響の調査"，情報処理学会研究報告, vol.2024-SE-216, no.2, pp.1-8，目黒，東京 (2024.03)
+4. 岡井 光輝，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"Javaプロジェクトにおける一文字変数の利用方法とソースコード保守性への影響の調査"，情報処理学会研究報告, vol.2024-SE-216, no.2, pp.1-8，目黒，東京 (2024.03)
 
-4. 増井 太一，福島 和希，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"プログラミング授業における講師の指導支援を目的とした受講者の進捗の可視化"，JSSST 第30回 ソフトウェア工学の基礎ワークショップ FOSE2023，ポスター，鳥羽，三重 (2023.11)
+5. 増井 太一，福島 和希，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"プログラミング授業における講師の指導支援を目的とした受講者の進捗の可視化"，JSSST 第30回 ソフトウェア工学の基礎ワークショップ FOSE2023，ポスター，鳥羽，三重 (2023.11)
    
-5. 篠原 遼太郎，**<u>嶋利 一真</u>**，福島 和希，田中 慎之佑，石尾 隆，松本 健一，"プログラミング学習者を対象としたエラー修正時間の分析"，JSSST 第30回 ソフトウェア工学の基礎ワークショップ FOSE2023，ポスター，鳥羽，三重 (2023.11)
+6. 篠原 遼太郎，**<u>嶋利 一真</u>**，福島 和希，田中 慎之佑，石尾 隆，松本 健一，"プログラミング学習者を対象としたエラー修正時間の分析"，JSSST 第30回 ソフトウェア工学の基礎ワークショップ FOSE2023，ポスター，鳥羽，三重 (2023.11)
    
-6. 岡井 光輝，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"型とスコープに着目した一文字変数の利用状況の調査"， ソフトウェアエンジニアリングシンポジウム2023，ポスター，早稲田，東京 (2023.08)
+7. 岡井 光輝，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"型とスコープに着目した一文字変数の利用状況の調査"， ソフトウェアエンジニアリングシンポジウム2023，ポスター，早稲田，東京 (2023.08)
    
-7. 山岡 厚仁，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"実行トレースの差分を用いたライブラリ非互換性の分析支援"， ソフトウェアエンジニアリングシンポジウム2023，ポスター，早稲田，東京 (2023.08)
+8. 山岡 厚仁，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"実行トレースの差分を用いたライブラリ非互換性の分析支援"， ソフトウェアエンジニアリングシンポジウム2023，ポスター，早稲田，東京 (2023.08)
    
-8.  田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"確率モデルを用いた初学者向け構文エラー修正支援手法の検討"，情報処理学会研究報告，vol.2023-SE-214，no.14，pp.1-8，札幌，北海道 (2023.07)
+9.  田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"確率モデルを用いた初学者向け構文エラー修正支援手法の検討"，情報処理学会研究報告，vol.2023-SE-214，no.14，pp.1-8，札幌，北海道 (2023.07)
 
-9.  Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
+10. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
    
-10. 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"プログラミング演習におけるエラー自動解説の有用性の評価"，情報処理学会研究報告, vol.2023-SE-213, no.6, pp.1-8，戸塚，神奈川 (2023.03)
+11. 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"プログラミング演習におけるエラー自動解説の有用性の評価"，情報処理学会研究報告, vol.2023-SE-213, no.6, pp.1-8，戸塚，神奈川 (2023.03)
     
-11. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"Topic通信処理記述の解析によるROSアプリケーションのデータフローの可視化"，情報処理学会研究報告, vol.2022-SE-212, no.10, pp.1-8，滋賀 (2022.12)
+12. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"Topic通信処理記述の解析によるROSアプリケーションのデータフローの可視化"，情報処理学会研究報告, vol.2022-SE-212, no.10, pp.1-8，滋賀 (2022.12)
     
-12. 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"遠隔プログラミング演習におけるエラー解説機能の導入"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2022  ワークショップ，早稲田，東京 (2022.09)
+13. 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"遠隔プログラミング演習におけるエラー解説機能の導入"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2022  ワークショップ，早稲田，東京 (2022.09)
     
-13. 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎，"Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07)  <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html)] -->
+14. 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎，"Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07)  <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html)] -->
 
-14. **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03)  <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)] -->
+15. **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03)  <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)] -->
 
-15. Liang Qiu, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Investigation on the Impact of Logging Configuration Change on the Log Output",第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1230.html)] -->
+16. Liang Qiu, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Investigation on the Impact of Logging Configuration Change on the Log Output",第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1230.html)] -->
 
-16. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，"再利用されたStack Overflowのコード片の進化パターンとOSSでの追従状況の調査"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03)  <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1231.html)] -->
+17. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，"再利用されたStack Overflowのコード片の進化パターンとOSSでの追従状況の調査"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03)  <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1231.html)] -->
 
-17. Mohan Bian, Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "Investigating the impact of source code metrics on merge conflict resolution judgement model," 情報処理学会研究報告, vol.2021-SE-210, no.21, pp.1-8，オンライン (2022.03) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1234.html)] -->
+18. Mohan Bian, Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "Investigating the impact of source code metrics on merge conflict resolution judgement model," 情報処理学会研究報告, vol.2021-SE-210, no.21, pp.1-8，オンライン (2022.03) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1234.html)] -->
 
-18. **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"準網羅的な実行トレースを用いた実行差分の可視化とデバッグの有用性検証"，第2回次世代ソフトウェアエコシステムワークショップ, ポスター，兵庫 (2021.11) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1219.html)] -->
+19. **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"準網羅的な実行トレースを用いた実行差分の可視化とデバッグの有用性検証"，第2回次世代ソフトウェアエコシステムワークショップ, ポスター，兵庫 (2021.11) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1219.html)] -->
 
-19. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，"OSSに利用されているStack Overflowのコード片の進化パターンの調査"，第2回次世代ソフトウェアエコシステムワークショップ, ポスター，兵庫 (2021.11) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1218.html)] -->
+20. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，"OSSに利用されているStack Overflowのコード片の進化パターンの調査"，第2回次世代ソフトウェアエコシステムワークショップ, ポスター，兵庫 (2021.11) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1218.html)] -->
 
-20. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，"GitHubプロジェクトに利用されているStack Overflowのコード片の進化パターンの調査"，情報処理学会研究報告, vol.2021-SE-208, no.13, pp.1-8，オンライン (2021.07) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1208.html)] -->
+21. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，"GitHubプロジェクトに利用されているStack Overflowのコード片の進化パターンの調査"，情報処理学会研究報告, vol.2021-SE-208, no.13, pp.1-8，オンライン (2021.07) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1208.html)] -->
 
-21. 石田 直人，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎，"言語サーバを応用した細粒度編集履歴収集プラットフォームの構想"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2020 ワークショップ，オンライン (2020.09)  <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1189.html)] -->
+22. 石田 直人，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎，"言語サーバを応用した細粒度編集履歴収集プラットフォームの構想"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2020 ワークショップ，オンライン (2020.09)  <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1189.html)] -->
 
-22. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"Java アプリケーションの動的解析に基づくライブラリのバージョン互換性テストの生成"，JSSST 第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉 ポスター，北海道 (2018.11) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1133.html)] -->
+23. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"Java アプリケーションの動的解析に基づくライブラリのバージョン互換性テストの生成"，JSSST 第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉 ポスター，北海道 (2018.11) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1133.html)] -->
 
-23. 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"フェイズ検出を用いたプログラムの性能バグ発生の自動検知"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2018 ポスター，東京 (2018.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1127.html)] -->
+24. 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"フェイズ検出を用いたプログラムの性能バグ発生の自動検知"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2018 ポスター，東京 (2018.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1127.html)] -->
 
-24.  **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"部分的な実行再現を目的とした実行トレース収集手法の調査"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2018 ワークショップ，東京 (2018.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1125.html)] -->
+25.  **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"部分的な実行再現を目的とした実行トレース収集手法の調査"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2018 ワークショップ，東京 (2018.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1125.html)] -->
 
 ## 招待講演
 1. 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
@@ -155,6 +157,7 @@
 # 活動
 ## 学会活動 （国際）
   * Program Committee Member 
+    * SANER 2025 Research Track and ERA Track
     * APSEC 2024 Technical Track
     * WSSE 2024 Technical Track
     * ICSME 2024 Registered Reports Track
@@ -163,7 +166,7 @@
     * APSEC 2023 Technical Track
     * WSSE 2023 Technical Track
     * ICPC 2023 Research Track and Tool Demonstration Track
-    * APSEC 2022 Technical and ERA Track
+    * APSEC 2022 Technical Track and ERA Track
 
   * Journal Peer Review
     * Empirical Software Engineering (2022)
@@ -183,6 +186,7 @@
     * APSEC2018   -->
 
 ## 講義
+  * 2024: 情報科学特別講義 (NAIST)
   * 2023-: プログラミング演習 (NAIST)
   * 2022-: ソフトウェア工学 (NAIST)
 
