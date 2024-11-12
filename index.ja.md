@@ -150,17 +150,20 @@
 6. **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)] -->
    
 ## 論文執筆を指導した学生の受賞
-1. 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
 
-2. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
+1. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+
+2. 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
+
+3. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
 
 # 活動
 ## 学会活動 （国際）
   * Program Committee Member 
     * SANER 2025 Research Track and ERA Track
     * APSEC 2024 Technical Track
-    * WSSE 2024 Technical Track
     * ICSME 2024 Registered Reports Track
+    * WSSE 2024 Technical Track
     * SANER 2024 ERA Track
     * ICPC 2024 Research Track
     * APSEC 2023 Technical Track
