@@ -33,7 +33,7 @@
 ## 国際会議・ワークショップ（査読有り）
 1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.109-110, Oct. 2024.
    
-2. Indira Febriyanti, Youmei Fan, **Kazumasa Shimari**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024.
+2. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024.
 
 3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models," Proceedings of the 40th International Conference on Software Maintenance and Evolution, Arizona, USA, pp.624-629, Oct. 2024.
    
@@ -132,7 +132,12 @@
 25.  **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，"部分的な実行再現を目的とした実行トレース収集手法の調査"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2018 ワークショップ，東京 (2018.09) <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1125.html)] -->
 
 ## 招待講演
-1. 嶋利一真，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
+1. **嶋利 一真**，"限られた資源を用いた効率的なデバッグ手法に関する研究"，第212回ソフトウェア工学研究発表会
+
+## 著書
+1. 金谷 重彦，平尾 俊貴，小笠原 司，松本 健一，**<u>嶋利 一真</u>**，工藤 拓斗，田中 英武，山﨑 和真，張 凡，"奈良先端科学技術大学院大学NAIST STELLAプログラム運営委員会高校生のデータサイエンス・Pythonでも77本ノック : NAIST STELLAプログラム"「共創」が育む主体性の未来" 学習教材"，国立大学法人奈良先端科学技術大学院大学，(2024.10)
+   
+2. 張 凡，今西 温輝，金谷 重彦，松本 健一， 平尾 俊貴，**<u>嶋利 一真</u>**，工藤 拓斗，田中 英武，山﨑 和真，德永 眞一郎，三宅 雅人，小笠原 司，奈良先端科学技術大学院大学NAIST STELLAプログラム運営委員会，"データサイエンスで考える理数探究基礎「未来に向かって」Python版"，国立大学法人奈良先端科学技術大学院大学，(2024.10)
 
 ## その他
 1. 夏期特別講座，奈良県立奈良北高等学校 (2023.07)
