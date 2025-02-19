@@ -9,55 +9,65 @@
 
 # 論文
 ## 論文誌
-1. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
-   
-2. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.J107-D, No.7, pp.420-423, Jul. 2024.
+1. 田中 英武，井垣 宏，**<u>嶋利 一真</u>**，福安 直樹，松本 健一，"シナリオを活用した多様なプログラミング演習問題自動生成手法の提案"，情報処理学会論文誌，採録決定．
 
-3. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
+2. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
+   
+3. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.J107-D, No.7, pp.420-423, Jul. 2024.
+
+4. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
   
-4. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, Nov. 2022.
+5. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, Nov. 2022.
  
-5. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
+6. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                 Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming,
                 vol.206, pp102630, Jun. 2021.
                  <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
-6. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，類似ソースコード片検索結果に対するクラスタリング技術を用いたフィルタリング手法，電子情報通信学会論文誌, Vol.J103-D, No.10,
+7. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，類似ソースコード片検索結果に対するクラスタリング技術を用いたフィルタリング手法，電子情報通信学会論文誌, Vol.J103-D, No.10,
                 pp.751-753(2020.10)
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1184.html)] -->
 
-7. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，限られた保存領域を使用するJavaプログラムの実行トレース記録手法，コンピュータソフトウェア, Vol.36, No.4,
+8. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，限られた保存領域を使用するJavaプログラムの実行トレース記録手法，コンピュータソフトウェア, Vol.36, No.4,
                 pp.107-113(2019.10) 
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
-1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.109-110, Oct. 2024.
+1. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted)
    
-2. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024.
-
-3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models," Proceedings of the 40th International Conference on Software Maintenance and Evolution, Arizona, USA, pp.624-629, Oct. 2024.
+2. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted)
    
-4. Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," Proceedings of the International Conference on Software Analysis, Evolution and Reengineering - Companion (VST 2024), Rovaniemi, Finland, pp.167-174, Mar. 2024. 
+3. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
+  
+4. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
 
-5. Atsuhito Yamaoka, Teyon Son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
+5. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.109-110, Oct. 2024. <!-- Acceptance rate 56% (9/16) -->
+   
+6. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024. <!-- Acceptance rate 56% (9/16) -->
 
-6. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, pp.397-402, Oct. 2023. <!-- Acceptance rate 39% (13/33) -->
+7. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models," Proceedings of the 40th International Conference on Software Maintenance and Evolution, Arizona, USA, pp.624-629, Oct. 2024. <!-- Acceptance rate 29% (10/35) -->
+   
+8. Keita Morisaki, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Test Case Generation for Python Libraries using Dependent Projects' Test-Suites," Proceedings of the International Conference on Software Analysis, Evolution and Reengineering - Companion (VST 2024), Rovaniemi, Finland, pp.167-174, Mar. 2024. 
 
-7. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.199-200, Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 41% (9/22) -->
+9.  Atsuhito Yamaoka, Teyon Son, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "Comparing Execution Trace Using Merkle-Tree to Detect Backward Incompatibilities," IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Rovaniemi, Finland, pp.649-653, Mar. 2024. <!-- Acceptance rate 35% (9/26) -->
 
-8. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
+10. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Leveraging Execution Trace with ChatGPT: A Case Study on Automated Fault Diagnosis," Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Bogota, Columbia, pp.397-402, Oct. 2023. <!-- Acceptance rate 39% (13/33) -->
 
-9.  Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.62-68, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
+11. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Proceedings of the 35th International Conference on Software Engineering Education and Training, pp.199-200, Tokyo, Japan, Aug. 2023. <!-- Acceptance rate 41% (9/22) -->
 
-10. **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022), pp.564 -567, Limassol, Cyprus, Oct. 2022 <!--Industry Track [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
+12. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "A Similarity-based Assisted Grading for Introductory Programming Course," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.23-24, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
-11. Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Comprehension (ICPC 2022), pp.528-532, Online, May 2022. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] --> <!-- Acceptance rate 38% (5/13) -->
+13. Fumiya Sato, Ayano Ikegami, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring," Proceedings of the 16th International Workshop on Software Clones (IWSC 2022), pp.62-68, Limassol, Cyprus, Oct. 2022. <!-- Acceptance rate 81% (13/16) -->
 
-12. Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging environment," Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), pp.497--501, March 2022 <!-- Acceptance rate 75% (9/12) -->
+14. **<u>Kazumasa Shimari</u>**, Masahiro Tanaka, Takashi Ishio, Makoto Matsushita, Katsuro Inoue, Satoru Takanezawa "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator," Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022), pp.564 -567, Limassol, Cyprus, Oct. 2022 <!--Industry Track [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] Acceptance rate 50% (10/20) -->
 
-13. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Near-Omniscient Debugging for Java Using Size-Limited Execution Trace," 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] Acceptance rate 58% (11/19) -->
+15. Tetsuya Kanda, **<u>Kazumasa Shimari</u>**, Katsuro Inoue, "didiffff: A Viewer for Comparing Changes in both Code and Execution Trace," Proceedings of the 30th IEEE International Conference on Program Comprehension (ICPC 2022), pp.528-532, Online, May 2022. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1237.html)] --> <!-- Acceptance rate 38% (5/13) -->
 
-14. Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "PADLA: A Dynamic Log Level Adapter Using Online Phase Detection," Proceedings of the IEEE/ACM 27th International Conference on Program Comprehension (ICPC 2019), pp.135-138, Montreal, Quebec, Canada, May 2019. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)]  -->
+16. Sakutaro Sugiyama, Takashi Kobayashi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "JISDLab: A web-based interactive literate debugging environment," Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), pp.497--501, March 2022 <!-- Acceptance rate 75% (9/12) -->
+
+17. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Near-Omniscient Debugging for Java Using Size-Limited Execution Trace," 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019), pp.398-401, Cleveland, OH, USA, October 2019. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1172.html)] Acceptance rate 58% (11/19) -->
+
+18. Tsuyoshi Mizouchi, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "PADLA: A Dynamic Log Level Adapter Using Online Phase Detection," Proceedings of the IEEE/ACM 27th International Conference on Program Comprehension (ICPC 2019), pp.135-138, Montreal, Quebec, Canada, May 2019. <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1157.html)]  -->
 
                   
 ## 国内会議（査読有り）
@@ -140,31 +150,39 @@
 2. 張 凡，今西 温輝，金谷 重彦，松本 健一， 平尾 俊貴，**<u>嶋利 一真</u>**，工藤 拓斗，田中 英武，山﨑 和真，德永 眞一郎，三宅 雅人，小笠原 司，奈良先端科学技術大学院大学NAIST STELLAプログラム運営委員会，"データサイエンスで考える理数探究基礎「未来に向かって」Python版"，国立大学法人奈良先端科学技術大学院大学，(2024.10)
 
 ## その他
-1. 夏期特別講座，奈良県立奈良北高等学校 (2023.07)
+1. 夏期特別講座，奈良県立奈良北高等学校 (2024.07)
+   
+2. 夏期特別講座，奈良県立奈良北高等学校 (2023.07)
 
-2. 博士号とった人に聞いてみた，情報処理学会，会誌「情報処理」Vol.64，No.5，pp.221-221 (2023.04)
+3. 博士号とった人に聞いてみた，情報処理学会，会誌「情報処理」Vol.64，No.5，pp.221-221 (2023.04)
 
 # 受賞など
 ## 研究に関する受賞など
-1. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+1. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
+  
+2. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
 
-2. **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
+3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
 
-3. **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会） <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
-
-4. **<u>嶋利 一真</u>**，日本ソフトウェア科学会，"ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)] -->
-
-5. 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)] -->
-
-6. **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)] -->
+4. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
    
-## 論文執筆を指導した学生の受賞
+5. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
 
-1. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+6. **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
 
-2. 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
+7. **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会） <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
-3. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
+8. **<u>嶋利 一真</u>**，日本ソフトウェア科学会，"ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)] -->
+
+9.  溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)] -->
+
+10. **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)] -->
+   
+## 論文執筆を指導した学生の受賞 （上記に含まれないもの）
+
+1. 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
+
+2. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
 
 # 活動
 ## 学会活動 （国際）
@@ -183,7 +201,7 @@
     * APSEC 2022 Technical Track and ERA Track
 
   * Journal Peer Review
-    * Empirical Software Engineering (2022)
+    * Empirical Software Engineering (2024, 2022)
 
 ## 学会活動 （国内）
   * 情報処理学会 ソフトウェア工学研究会
