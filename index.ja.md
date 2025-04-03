@@ -35,9 +35,9 @@
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
 ## 国際会議・ワークショップ（査読有り）
-1. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted)
+1. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted) <!-- Acceptance rate 61% (22/36) -->
    
-2. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted)
+2. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted) <!-- Acceptance rate 61% (22/36) -->
    
 3. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
   
@@ -189,6 +189,7 @@
 # 活動
 ## 学会活動 （国際）
   * Program Committee Member 
+    * APSEC 2025 Technical Track 
     * FSE 2025 Demonstrations Track
     * ICPC 2025 Tool Demonstration Track
     * SANER 2025 Research Track and ERA Track
@@ -207,12 +208,13 @@
 
 ## 学会活動 （国内）
   * 情報処理学会 ソフトウェア工学研究会
+    <!-- * ソフトウェアエンジニアリングシンポジウム プログラム委員 (2025) -->
     * ソフトウェアエンジニアリングシンポジウム 既発表・招待論文委員長 (2024)
     * 情報処理学会論文誌 査読委員（2023）    
   * ソフトウェア科学会
     * 日本ソフトウェア科学会第41回大会 ポスター委員長 (2024)
-    * ソフトウェア工学の基礎ワークショップ プログラム委員 (2023, 2024)
-    * コンピュータソフトウェア 査読委員（2023, 2024）
+    * ソフトウェア工学の基礎ワークショップ プログラム委員 (2024, 2023)
+    * コンピュータソフトウェア 査読委員（2025, 2024, 2023）
   * 電子情報通信学会
     * 電子情報通信学会論文誌D 査読委員（2023）
 
@@ -263,8 +265,10 @@
     * ロギング設定の出力に関する分析とプロジェクトの特性に応じた最適化支援，若手研究，2023年度-2025年度
     * 利用機能の実行時情報解析による厳密かつ効率的なライブラリの互換性検証手法，研究活動スタート支援，2022年度-2023年度 
   * その他
-    * 一般財団法人中西奨学会 研究助成 <!--2023年度 採択率 26% 5件/19件 -->
-    * 栢森情報科学振興財団 研究助成 <!--2022年度 採択率 21% 21件/97件 -->
+    * 一般財団法人テレコム先端技術研究支援センター SCAT研究助成，2025年度-2027年度  <!--2025年度 採択率  -->
+    * 公益財団法人KDDI財団 学術調査研究助成，2025年度-2027年度  <!--2025年度 採択率 25% 7件/28件 -->
+    * 一般財団法人中西奨学会 研究助成，2023年度-2023年度 <!--2023年度 採択率 26% 5件/19件 -->
+    * 栢森情報科学振興財団 研究助成，2022年度-2024年度 <!--2022年度 採択率 21% 21件/97件 -->
 
 ### 分担
   * 科研費

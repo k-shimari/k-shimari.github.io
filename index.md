@@ -17,7 +17,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J: Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021. <!--13 pages [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
-1. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software (Accepted)
+1. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software (Accepted).
    
 2. Hidetake Tanaka, Hiroshi Igaki, **<u>Kazumasa Shimari</u>**, Naoki Fukuyasu, Kenichi Matsumoto, "Scenario-Based Automatic Generation Method for Diverse Programming Exercises," IPSJ Journal, 2025(Accepted).
    
@@ -30,17 +30,17 @@ My research interests include dynamic analysis, program comprehension, programmi
 6. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method using a limited size storage for Java," Computer Software, Vol.36, No.4, pp.107-113, Oct. 2019.
 
 ##  Conference and Workshop Papers
-1. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted)
+1. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted). <!-- Acceptance rate 61% (22/36) -->
    
-2. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted)
+2. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted). <!-- Acceptance rate 61% (22/36) -->
    
 3. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
   
 4. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
    
-5. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.109-110, Oct. 2024.
+5. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Initial Investigation of Behavioral Changes of Obfuscated Programs Caused by Code Optimization," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.109-110, Oct. 2024.  <!-- Acceptance rate 56% (9/16) -->
    
-6. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024.
+6. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Proceedings of the 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops, Tsukuba, Japan, pp.103-104, Oct. 2024.  <!-- Acceptance rate 56% (9/16) -->
 
 7. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nigerian Software Engineer or American Data Scientist? GitHub Profile Recruitment Bias in Large Language Models," Proceedings of the 40th International Conference on Software Maintenance and Evolution, pp.624-629, Arizona, USA, 2024.
    
@@ -94,6 +94,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 # Activity
 ## Academic Service
   * Program Committee Member
+    * APSEC 2025 Technical Track 
     * FSE 2025 Demonstrations Track
     * ICPC 2025 Tool Demonstration Track
     * SANER 2025 Research Track and ERA Track
