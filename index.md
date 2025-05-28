@@ -97,7 +97,8 @@ My research interests include dynamic analysis, program comprehension, programmi
 
 # Activity
 ## Academic Service
-  * Program Committee Member
+  * Program Committee Member 
+    * ICSME 2025 Registered Reports Track 
     * APSEC 2025 Technical Track 
     * FSE 2025 Demonstrations Track
     * ICPC 2025 Tool Demonstration Track
@@ -111,7 +112,8 @@ My research interests include dynamic analysis, program comprehension, programmi
     * WSSE 2023 Technical Track
     * ICPC 2023 Research Track and Tool Demonstration Track
     * APSEC 2022 Technical Track and ERA Track
-  
+  * Organization
+    * WIREDS 2024 Organizing Team
   * Journal Peer Review
     * Empirical Software Engineering (2024, 2022)
   
