@@ -39,7 +39,7 @@
    
 2. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), 2025. (Accepted).
    
-3. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis," Proceedings of the 2025 Symposium on Eye Tracking Research and Applications, no. 51, 3 pages, Tokyo, Japan, May 2025.
+3. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis," Proceedings of the 2025 Symposium on Eye Tracking Research and Applications, no. 51, 3 pages, Tokyo, Japan, May 2025.<!-- Acceptance rate 88% (37/42) -->
  
 4. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," Proceedings of the 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted) <!-- Acceptance rate 61% (22/36) -->
    
