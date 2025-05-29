@@ -100,7 +100,6 @@ My research interests include dynamic analysis, program comprehension, programmi
 # Activity
 ## Academic Service
   * Program Committee Member 
-    * ICSME 2025 Registered Reports Track 
     * APSEC 2025 Technical Track 
     * ICSME 2025 Registered Reports Track
     * FSE 2025 Demonstrations Track
