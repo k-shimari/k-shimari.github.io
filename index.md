@@ -17,22 +17,24 @@ My research interests include dynamic analysis, program comprehension, programmi
 3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J: Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021. <!--13 pages [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
-1. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software (Accepted).
+1. Taichi Masui, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto,"An Analysis of Editing Contents and Input Operations in Error Correction Activities of Novice Python Programmers," Computer Software (Accepted).
    
-2. Hidetake Tanaka, Hiroshi Igaki, **<u>Kazumasa Shimari</u>**, Naoki Fukuyasu, Kenichi Matsumoto, "Scenario-Based Automatic Generation Method for Diverse Programming Exercises," IPSJ Journal, Vol.66, No.4, pp.687-700, 2025.
+2. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software (Accepted).
    
-3. Yuto Murata, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Data Flow Visualization Using Coding Patterns of Topic Communication in ROS Applications," IEICE TRANSACTIONS on Information and Systems, Vol.J107-D, No.7, pp.420-423, Jul. 2024.
+3. Hidetake Tanaka, Hiroshi Igaki, **<u>Kazumasa Shimari</u>**, Naoki Fukuyasu, Kenichi Matsumoto, "Scenario-Based Automatic Generation Method for Diverse Programming Exercises," IPSJ Journal, Vol.66, No.4, pp.687-700, 2025.
+   
+4. Yuto Murata, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Data Flow Visualization Using Coding Patterns of Topic Communication in ROS Applications," IEICE TRANSACTIONS on Information and Systems, Vol.J107-D, No.7, pp.420-423, Jul. 2024.
 
-4. Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on Information and Systems, Vol.J105-D, No.11, pp.717-719, Nov. 2022.
+5. Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on Information and Systems, Vol.J105-D, No.11, pp.717-719, Nov. 2022.
 
-5. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method for similar source code fragment search," IEICE TRANSACTIONS on Information and Systems, Vol.J103-D, No.10, pp.751-753, Oct. 2020.
+6. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method for similar source code fragment search," IEICE TRANSACTIONS on Information and Systems, Vol.J103-D, No.10, pp.751-753, Oct. 2020.
 
-6. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method using a limited size storage for Java," Computer Software, Vol.36, No.4, pp.107-113, Oct. 2019.
+7. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method using a limited size storage for Java," Computer Software, Vol.36, No.4, pp.107-113, Oct. 2019.
 
 ##  Conference and Workshop Papers
-1. Yusuf Sulistyo Nugroho, Farah Danisha Salam, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Uncovering Intention through LLM-Driven Code Snippet Description Generation," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), 2025. (Accepted).
+1. Yusuf Sulistyo Nugroho, Farah Danisha Salam, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Uncovering Intention through LLM-Driven Code Snippet Description Generation," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025. (Accepted).
    
-2. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), 2025. (Accepted).
+2. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025. (Accepted).
    
 3. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis," Proceedings of the 2025 Symposium on Eye Tracking Research and Applications, no. 51, 3 pages, Tokyo, Japan, May 2025. <!-- Acceptance rate 88% (37/42) -->
    
@@ -76,17 +78,19 @@ My research interests include dynamic analysis, program comprehension, programmi
 1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
 ## Award
-1. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
-  
-2. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
-
-3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong and Kenichi Matsumoto, "Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
-
-4. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto and Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
+1. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," Best Student Paper, 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025.
    
-5. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+2. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
+  
+3. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
 
-6. ICPC 2023 Distinguished Reviewer Award
+4. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong and Kenichi Matsumoto, "Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
+
+5. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto and Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
+   
+6. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+
+7. ICPC 2023 Distinguished Reviewer Award
  
   <!-- * **<u>Kazumasa Shimari</u>**, "Repayment Exemption of Student Loan for Students with Excellent
                   Grades", Japan Student Services Organization (JASSO) Type I

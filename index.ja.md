@@ -9,28 +9,30 @@
 
 # 論文
 ## 論文誌
-1. 神田 哲也，橋本 悠樹，**<u>嶋利 一真</u>**，肥後 芳樹，"JCompaths: 実行経路の比較と可視化を行うコードレビュー向けツール"，コンピュータソフトウェア，採録決定．
-
-2. 田中 英武，井垣 宏，**<u>嶋利 一真</u>**，福安 直樹，松本 健一，"シナリオを活用した多様なプログラミング演習問題自動生成手法の提案"，情報処理学会論文誌，Vol.66, No.4, pp.687-700, Apr. 2025.
+1. 増井 太一，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"Python初学者のエラー修正活動における編集内容および入力操作の分析"，コンピュータソフトウェア，採録決定．
    
-3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
-   
-4. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.J107-D, No.7, pp.420-423, Jul. 2024.
+2. 神田 哲也，橋本 悠樹，**<u>嶋利 一真</u>**，肥後 芳樹，"JCompaths: 実行経路の比較と可視化を行うコードレビュー向けツール"，コンピュータソフトウェア，採録決定．
 
-5. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
+3. 田中 英武，井垣 宏，**<u>嶋利 一真</u>**，福安 直樹，松本 健一，"シナリオを活用した多様なプログラミング演習問題自動生成手法の提案"，情報処理学会論文誌，Vol.66, No.4, pp.687-700, Apr. 2025.
+   
+4. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
+   
+5. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.J107-D, No.7, pp.420-423, Jul. 2024.
+
+6. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
   
-6. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, Nov. 2022.
+7. 栗原 拓己，**<u>嶋利 一真</u>**，神田 哲也，井上 克郎，Stack Overflow のコード片へ加えられた変更に追従しない GitHub プロジェクトの変更パターン分類による考察，電子情報通信学会論文誌D，Vol.J105-D, No.11, pp.717-719, Nov. 2022.
  
-7. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
+8. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J:
                 Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming,
                 vol.206, pp102630, Jun. 2021.
                  <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
-8.  **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，類似ソースコード片検索結果に対するクラスタリング技術を用いたフィルタリング手法，電子情報通信学会論文誌, Vol.J103-D, No.10,
+9.  **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，類似ソースコード片検索結果に対するクラスタリング技術を用いたフィルタリング手法，電子情報通信学会論文誌, Vol.J103-D, No.10,
                 pp.751-753(2020.10)
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1184.html)] -->
 
-9.  **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，限られた保存領域を使用するJavaプログラムの実行トレース記録手法，コンピュータソフトウェア, Vol.36, No.4,
+10. **<u>嶋利 一真</u>**，石尾 隆，井上 克郎，限られた保存領域を使用するJavaプログラムの実行トレース記録手法，コンピュータソフトウェア, Vol.36, No.4,
                 pp.107-113(2019.10) 
                 <!-- [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1145.html)] -->
 
