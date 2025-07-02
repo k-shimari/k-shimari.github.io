@@ -78,7 +78,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 1. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
 ## Award
-1. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," Best Student Paper, 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025.
+1. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," Student Best Paper, 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025.
    
 2. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
   

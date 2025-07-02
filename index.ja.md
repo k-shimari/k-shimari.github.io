@@ -168,25 +168,27 @@
 
 # 受賞など
 ## 研究に関する受賞など
-1. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
-  
-2. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
-
-3. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
-
-4. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
+1. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," Student Best Paper, 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025.
    
-5. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
+2. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
+  
+3. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
 
-6. **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
+4. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
 
-7. **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会） <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
+5. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
+   
+6. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023. 
 
-8. **<u>嶋利 一真</u>**，日本ソフトウェア科学会，"ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)] -->
+7. **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
 
-9.  溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)] -->
+8. **<u>嶋利 一真</u>**，Study on Cost-Effective Debugging Methods under Restricted Resources，2021年度研究会推薦博士論文（ソフトウェア工学研究会） <!-- * **<u>嶋利 一真</u>**，"大学院第一種奨学金：特に優れた業績による返還免除（修士，全額）"，日本学生支援機構 (2019) -->
 
-10. **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)] -->
+9.  **<u>嶋利 一真</u>**，日本ソフトウェア科学会，"ライブ論文ポスター賞 "，第25回 ソフトウェア工学の基礎ワークショップ FOSE2018 in 湯の川温泉，北海道 (2018.11) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1134.html)] -->
+
+10. 溝内 剛，**<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，IPSJ/SIGSE "ポスター・インタラクティブ賞"，ソフトウェアエンジニアリングシンポジウム2018，東京 (2018.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1128.html)] -->
+
+11. **<u>嶋利 一真</u>**，IPSJ/SIGSE "学生奨励発表賞"，ソフトウェアエンジニアリングシンポジウム201，東京 (2017.09) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1092.html)] -->
    
 ## 論文執筆を指導した学生の受賞 （上記に含まれないもの）
 
