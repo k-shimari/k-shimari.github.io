@@ -40,9 +40,9 @@ My research interests include dynamic analysis, program comprehension, programmi
    
 4. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis," Proceedings of the 2025 Symposium on Eye Tracking Research and Applications, no. 51, 3 pages, Tokyo, Japan, May 2025. <!-- Acceptance rate 88% (37/42) -->
    
-5. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted). <!-- Acceptance rate 61% (22/36) -->
+5. Haruhiko Yoshioka, Sila Lertbanjongngam, Masayuki Inaba, Youmei Fan, Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Do Developers Depend on Deprecated Library Versions? A Mining Study of Log4j," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, pp.314-318, Apr. 2025. <!-- Acceptance rate 61% (22/36) -->
    
-6. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, Apr. 2025. (Accepted). <!-- Acceptance rate 61% (22/36) -->
+6. Hidetake Tanaka, Kazuma Yamasaki, Momoka Hirose, Takashi Nakano, Youmei Fan, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Kenichi Matsumoto, "Mining for Lags in Updating Critical Security Threats: A Case Study of Log4j Library," 22nd International Conference on Mining Software Repositories, Ottawa, Canada, pp.319-323, Apr. 2025. <!-- Acceptance rate 61% (22/36) -->
    
 7. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
   
