@@ -34,9 +34,9 @@ My research interests include dynamic analysis, program comprehension, programmi
 ##  Conference and Workshop Papers
 1. Nirai Hayakawa, **<u>Kazumasa Shimari</u>**, Kazuma Yamasaki, Hirotatsu Hoshikawa, Rikuto Tsuchida and Kenichi Matsumoto, "Round Outcome Prediction in VALORANT Using Tactical Features from Video Analysis," IEEE Conference on Games 2025, 2025. (Accepted) <!-- Acceptance rate 42% (XX/165) -->
    
-2. Yusuf Sulistyo Nugroho, Farah Danisha Salam, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Uncovering Intention through LLM-Driven Code Snippet Description Generation," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025. (Accepted).
+2. Yusuf Sulistyo Nugroho, Farah Danisha Salam, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Uncovering Intention through LLM-Driven Code Snippet Description Generation," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Surakarta, Indonesia, pp. 1-6 June 2025.
    
-3. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025. (Accepted).
+3. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Surakarta, Indonesia, pp. 1-6, June 2025. 
    
 4. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis," Proceedings of the 2025 Symposium on Eye Tracking Research and Applications, no. 51, 3 pages, Tokyo, Japan, May 2025. <!-- Acceptance rate 88% (37/42) -->
    
