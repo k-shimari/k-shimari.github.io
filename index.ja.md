@@ -208,9 +208,11 @@
    
 ## 論文執筆を指導した学生の受賞 （上記に含まれないもの）
 
-1. 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
+1. 小舟 康予：支部大会奨励賞，2025年度情報処理学会関西支部 支部大会（2025年9月）
+   
+2. 北岡 哲哉：第29回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2022年11月)
 
-2. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
+3. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
 
 # 活動
 ## 学会活動 （国際）
