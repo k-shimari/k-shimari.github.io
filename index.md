@@ -18,21 +18,23 @@ My research interests include dynamic analysis, program comprehension, programmi
 3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J: Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021. <!--13 pages [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
-1. Shinnosuke Tanaka, **<u>Kazumasa Shimari</u>**, Kazuki Fukushima, Takashi Ishio, Kenichi Matsumoto, "Syntax Error Correction Support Method for Novices Using a Probabilistic Model," Journal of Information Processing (Accepted).
+1. Koki Okai, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Empirical Study on the Usage of Single-Letter Variables in Java: Focusing on Types and Scopes," Journal of Information Processing (Accepted).
    
-2. Taichi Masui, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Analysis of Editing Contents and Input Operations in Error Correction Activities of Novice Python Programmers," Computer Software (Accepted).
+2. Shinnosuke Tanaka, **<u>Kazumasa Shimari</u>**, Kazuki Fukushima, Takashi Ishio, Kenichi Matsumoto, "Syntax Error Correction Support Method for Novices Using a Probabilistic Model," Journal of Information Processing (Accepted).
    
-3. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software, Vol.42, No.3, pp.23-39, Aug. 2025.
+3. Taichi Masui, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Analysis of Editing Contents and Input Operations in Error Correction Activities of Novice Python Programmers," Computer Software (Accepted).
    
-4. Hidetake Tanaka, Hiroshi Igaki, **<u>Kazumasa Shimari</u>**, Naoki Fukuyasu, Kenichi Matsumoto, "Scenario-Based Automatic Generation Method for Diverse Programming Exercises," IPSJ Journal, Vol.66, No.4, pp.687-700, 2025.
+4. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software, Vol.42, No.3, pp.23-39, Aug. 2025.
    
-5. Yuto Murata, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Data Flow Visualization Using Coding Patterns of Topic Communication in ROS Applications," IEICE TRANSACTIONS on Information and Systems, Vol.J107-D, No.7, pp.420-423, Jul. 2024.
+5. Hidetake Tanaka, Hiroshi Igaki, **<u>Kazumasa Shimari</u>**, Naoki Fukuyasu, Kenichi Matsumoto, "Scenario-Based Automatic Generation Method for Diverse Programming Exercises," IPSJ Journal, Vol.66, No.4, pp.687-700, 2025.
+   
+6. Yuto Murata, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Data Flow Visualization Using Coding Patterns of Topic Communication in ROS Applications," IEICE TRANSACTIONS on Information and Systems, Vol.J107-D, No.7, pp.420-423, Jul. 2024.
 
-6. Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on Information and Systems, Vol.J105-D, No.11, pp.717-719, Nov. 2022.
+7. Takumi Kurihara, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Katsuro Inoue, "Classification of changes in GitHub projects not following changes made to Stack Overflow code snippets," IEICE TRANSACTIONS on Information and Systems, Vol.J105-D, No.11, pp.717-719, Nov. 2022.
 
-7. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method for similar source code fragment search," IEICE TRANSACTIONS on Information and Systems, Vol.J103-D, No.10, pp.751-753, Oct. 2020.
+8. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "A clustering-based filtering method for similar source code fragment search," IEICE TRANSACTIONS on Information and Systems, Vol.J103-D, No.10, pp.751-753, Oct. 2020.
 
-8. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method using a limited size storage for Java," Computer Software, Vol.36, No.4, pp.107-113, Oct. 2019.
+9.  **<u>Kazumasa Shimari</u>**, Takashi Ishio, Katsuro Inoue, "An execution trace recording method using a limited size storage for Java," Computer Software, Vol.36, No.4, pp.107-113, Oct. 2019.
 
 ##  Conference and Workshop Papers
 1. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Understanding the Characteristics of LLM-Generated Property-Based Tests in Exploring Edge Cases," 2nd ACM International Conference on AI-powered Software, 2025. (Accepted) <!-- Acceptance rate 46% (26/57) -->
