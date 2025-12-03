@@ -20,9 +20,9 @@ My research interests include dynamic analysis, program comprehension, programmi
 ## Journal Papers (in Japanese)
 1. Koki Okai, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Empirical Study on the Usage of Single-Letter Variables in Java: Focusing on Types and Scopes," Journal of Information Processing (Accepted).
    
-2. Shinnosuke Tanaka, **<u>Kazumasa Shimari</u>**, Kazuki Fukushima, Takashi Ishio, Kenichi Matsumoto, "Syntax Error Correction Support Method for Novices Using a Probabilistic Model," Journal of Information Processing (Accepted).
+2. Shinnosuke Tanaka, **<u>Kazumasa Shimari</u>**, Kazuki Fukushima, Takashi Ishio, Kenichi Matsumoto, "Syntax Error Correction Support Method for Novices Using a Probabilistic Model," Journal of Information Processing, ，Vol.66, No.11, pp.1486-1496, Nov. 2025. (Specially Selected Paper)
    
-3. Taichi Masui, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Analysis of Editing Contents and Input Operations in Error Correction Activities of Novice Python Programmers," Computer Software (Accepted).
+3. Taichi Masui, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Analysis of Editing Contents and Input Operations in Error Correction Activities of Novice Python Programmers," Computer Software Vol.42, No.4, pp.81-87, Oct. 2025.
    
 4. Tetsuya Kanda, Yuki Hashimoto, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "JCompaths: A code review tool for comparing and visualizing execution paths," Computer Software, Vol.42, No.3, pp.23-39, Aug. 2025.
    
@@ -140,6 +140,7 @@ My research interests include dynamic analysis, program comprehension, programmi
   * 2024: Special Lectures in Information Science (NAIST)
   * 2023-: Programming Practice (NAIST)
   * 2022-: Software Engineering (NAIST)
+  * 2022-: Information Science and Engineering PBL I, Information Science and Engineering PBL II
 
 # Other
 ## Education & Career
