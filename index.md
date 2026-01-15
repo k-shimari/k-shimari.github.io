@@ -18,7 +18,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 3. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Naoto Ishida, Katsuro Inoue, "NOD4J: Near-Omniscient Debugging Tool for Java Using Size-Limited Execution Trace," Science of Computer Programming, vol.206, pp.102630, Jun. 2021. <!--13 pages [[detail](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1199.html)] -->
 
 ## Journal Papers (in Japanese)
-1. Koki Okai, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Empirical Study on the Usage of Single-Letter Variables in Java: Focusing on Types and Scopes," Journal of Information Processing (Accepted).
+1. Koki Okai, **<u>Kazumasa Shimari</u>**, Takashi Ishio, Kenichi Matsumoto, "An Empirical Study on the Usage of Single-Letter Variables in Java: Focusing on Types and Scopes," Journal of Information Processing, Vol.67, No.1, pp.82-91, Jan. 2026.
    
 2. Shinnosuke Tanaka, **<u>Kazumasa Shimari</u>**, Kazuki Fukushima, Takashi Ishio, Kenichi Matsumoto, "Syntax Error Correction Support Method for Novices Using a Probabilistic Model," Journal of Information Processing, ，Vol.66, No.11, pp.1486-1496, Nov. 2025. (Specially Selected Paper)
    
@@ -113,6 +113,7 @@ My research interests include dynamic analysis, program comprehension, programmi
 # Activity
 ## Academic Service
   * Program Committee Member 
+    * ICSE 2026 Artifact Evaluation Track
     * SANER 2026 ERA Track 
     * APSEC 2025 Technical Track 
     * ICSME 2025 Registered Reports Track
@@ -129,9 +130,13 @@ My research interests include dynamic analysis, program comprehension, programmi
     * ICPC 2023 Research Track and Tool Demonstration Track
     * APSEC 2022 Technical Track and ERA Track
   * Organization
-    * WIREDS 2024 Organizing Team
+    * General Chair: AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers
+    * Organizing Team: WIREDS 2024 
   * Journal Peer Review
-    * Empirical Software Engineering (2024, 2022)
+    * Empirical Software Engineering
+    * Journal of Information Processing
+    * IEICE Transactions on Information and Systems
+    
   
   <!-- * Student Volunteer
     * APSEC2018   -->
