@@ -49,7 +49,7 @@
    
 3. Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, **<u>Kazumasa Shimari</u>**, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia, "Forecasting Developer Environments with GenAI: A Research Perspective," The 3rd International Workshop on Integrated Development Environments, 2026. (Accepted)
    
-4. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Understanding the Characteristics of LLM-Generated Property-Based Tests in Exploring Edge Cases," 2nd ACM International Conference on AI-powered Software, 2025. (Accepted) <!-- Acceptance rate 46% (26/57) -->
+4. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Understanding the Characteristics of LLM-Generated Property-Based Tests in Exploring Edge Cases," 2nd ACM International Conference on AI-powered Software, pp. 11-18, 2025.  <!-- Acceptance rate 46% (26/57) -->
    
 5. Nirai Hayakawa, **<u>Kazumasa Shimari</u>**, Kazuma Yamasaki, Hirotatsu Hoshikawa, Rikuto Tsuchida and Kenichi Matsumoto, "Round Outcome Prediction in VALORANT Using Tactical Features from Video Analysis," Proceedings of the 2025 IEEE Conference on Games, Lisbon, Portugal, pp. 1-4, 2025.  <!-- Acceptance rate 42% (XX/165) -->
  
@@ -251,6 +251,7 @@
 # 活動
 ## 学会活動 （国際）
   * Program Committee Member 
+    * COMPSAC 2026 Software Engineering Technologies & Applications Track
     * ICSE 2026 Artifact Evaluation Track
     * SANER 2026 ERA Track 
     * APSEC 2025 Technical Track 
