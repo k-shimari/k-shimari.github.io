@@ -160,7 +160,7 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
 
 ## Education & Career
 
-- 2026.04-: Lecturer, Faculty of Systems Engineering, Nara Institute of Science and Technology
+- 2026.04-: Lecturer, Faculty of Systems Engineering, Wakayama University
 
 - 2022.04-: Assistant Professor, Division of Information Science, Graduate School of Science and
   Technology, Nara Institute of Science and Technology
