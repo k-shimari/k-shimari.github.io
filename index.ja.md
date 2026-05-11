@@ -17,10 +17,13 @@
 3. 田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"N-gramによる確率モデルを用いた初学者向け構文エラー修正支援手法"，情報処理学会論文誌，Vol.66, No.11, pp.1486-1496, Nov. 2025．（情報処理学会論文誌ジャーナル/JIP特選論文）
 
 4. 増井 太一，**<u>嶋利 一真</u>**，石尾 隆，松本 健一，"Python初学者のエラー修正活動における編集内容および入力操作の分析"，コンピュータソフトウェア，Vol.42, No.4, pp.81-87, Oct. 2025．
+
 5. 神田 哲也，橋本 悠樹，**<u>嶋利 一真</u>**，肥後 芳樹，"JCompaths: 実行経路の比較と可視化を行うコードレビュー向けツール"，コンピュータソフトウェア，Vol.42, No.3, pp.23-39, Aug. 2025．
 
 6. 田中 英武，井垣 宏，**<u>嶋利 一真</u>**，福安 直樹，松本 健一，"シナリオを活用した多様なプログラミング演習問題自動生成手法の提案"，情報処理学会論文誌，Vol.66, No.4, pp.687-700, Apr. 2025.
+
 7. **<u>Kazumasa Shimari</u>**, Takashi Ishio, Tetsuya Kanda, Katsuro Inoue, "Evaluating the Effectiveness of Size-Limited Execution Trace with Near-Omniscient Debugging," Science of Computer Programming, vol.236, pp.103117, Sep. 2024.
+
 8. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，ROS アプリケーションにおけるトピック通信の記述パターンを用いたデータフロー可視化手法，電子情報通信学会論文誌D，Vol.J107-D, No.7, pp.420-423, Jul. 2024.
 
 9. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Reliability Evaluation Framework for Obfuscating Transformations in Program Code," Computer Software, Vol. 40, Issue 4, pp.37-46, Oct. 2023.
@@ -43,15 +46,21 @@
 ## 国際会議・ワークショップ（査読有り）
 
 1. Takahiro Monno, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Kazuma Yamasaki and Kenichi Matsumoto, "How Do Developers Use Migration Guides? A Case Study of Log4j," 30th International Conference on Evaluation and Assessment in Software Engineering, 2026. (Accepted)
+
 2. Hirotatsu Hoshikawa, Hidetake Tanaka, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula and Kenichi Matsumoto, "A Longitudinal Analysis of Good First Issue Practices and Newcomer Pull Requests in Popular OSS Projects," 30th International Conference on Evaluation and Assessment in Software Engineering, 2026. (Accepted)
+
 3. Kan Watanabe, Rikuto Tsuchida, Takahiro Monno, Bin Huang, Kazuma Yamasaki, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "How AI Coding Agents Communicate: A Study of Pull Request Characteristics and Human Review Responses," 23rd International Conference on Mining Software Repositories, 2026. (Accepted)
 
 4. Kazuma Yamasaki, Joseph Ayobami Joshua, Tasha Settewong, Mahmoud Alfadel, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Who Writes the Docs in SE 3.0? Agent vs. Human Documentation Pull Requests," 23rd International Conference on Mining Software Repositories, 2026. (Accepted)
+
 5. Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, **<u>Kazumasa Shimari</u>**, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia, "Forecasting Developer Environments with GenAI: A Research Perspective," The 3rd International Workshop on Integrated Development Environments, 2026. (Accepted)
+
 6. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Understanding the Characteristics of LLM-Generated Property-Based Tests in Exploring Edge Cases," 2nd ACM International Conference on AI-powered Software, pp. 11-18, 2025. <!-- Acceptance rate 46% (26/57) -->
+
 7. Nirai Hayakawa, **<u>Kazumasa Shimari</u>**, Kazuma Yamasaki, Hirotatsu Hoshikawa, Rikuto Tsuchida and Kenichi Matsumoto, "Round Outcome Prediction in VALORANT Using Tactical Features from Video Analysis," Proceedings of the 2025 IEEE Conference on Games, Lisbon, Portugal, pp. 1-4, 2025. <!-- Acceptance rate 42% (XX/165) -->
 
 8. Yusuf Sulistyo Nugroho, Farah Danisha Salam, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Uncovering Intention through LLM-Driven Code Snippet Description Generation," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Surakarta, Indonesia, pp. 1-6 June 2025.
+
 9. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Surakarta, Indonesia, pp. 1-6, June 2025.
 
 10. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis," Proceedings of the 2025 Symposium on Eye Tracking Research and Applications, no. 51, 3 pages, Tokyo, Japan, May 2025.<!-- Acceptance rate 88% (37/42) -->
@@ -116,14 +125,21 @@
 1. 上田 優，山﨑 和真，**<u>嶋利 一真</u>**，土田 陸斗，松本 健一，"CWE別特化型LLMのアンサンブルによるソースコード脆弱性検出手法の提案"，情報処理学会第88回全国大会，2 pages，(2026.03).
 
 2. 小嶺 倫太朗，土田 陸斗，山崎 和真，**<u>嶋利 一真</u>**，松本 健一，"3D教材活用の授業実践が児童の学習意欲に与える効果"，日本教育工学会 2026年春季全国大会，2 pages， (2026.03).
+
 3. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Detecting Edge Cases in LLM-Generated Code," AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers, Poster, Nara (2025.11).
+
 4. Haruhiko Yoshioka, **<u>Kazumasa Shimari</u>**, Hidetake Uwano, Kenichi Matsumoto, "From Eye Movements to Distributed Representations for Program Comprehension," AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers, Poster, Nara (2025.11).
 
 5. Rikuto Tsuchida, **<u>Kazumasa Shimari</u>**, Gema Rodríguez-Pérez, Raula Gaikovina Kula, Kenichi Matsumoto, "An Analysis of Maintenance Activities by Generative AI Adopters on GitHub," AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers, Poster, Nara (2025.11).
+
 6. Indira Febriyani, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "Using LLMs for Code-to-Doc for Fixing Bugs," AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers, Poster, Nara (2025.11).
+
 7. Takahiro Monno, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Kazuma Yamasaki, Kenichi Matsumoto, "A preliminary study on migration guide usage," AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers, Poster, Nara (2025.11).
+
 8. Kazuma Yamasaki, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "AI-oriented Programming Language: Proposal for Reconstructing Ecosystems for AI," AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers, Poster, Nara (2025.11).
+
 9. 土田 陸斗，**<u>嶋利 一真</u>**，Gema Rodríguez-Pérez，Raula Gaikovina Kula，松本 健一，"GitHub における生成 AI 採用者のメンテナンス活動の分析"，JSSST 第32回 ソフトウェア工学の基礎ワークショップ FOSE2025，ポスター，松山，愛媛 (2025.11).
+
 10. 小舟 康予，小比賀 亮仁，小板 隆浩，**<u>嶋利 一真</u>**，松本 健一，"プログラミング学習ログパターンに基づく行動変化分析手法の提案"，情報処理学会関西支部支部大会，7 pages，オンライン(2025.09).
 
 11. 門埜 孝拓，**<u>嶋利 一真</u>**，神田 哲也，山﨑 和真，松本 健一，"破壊的変更を伴うライブラリ更新における移行ガイドの構成要素の分析"，ソフトウェアエンジニアリングシンポジウム2025論文集，pp.48-55，早稲田，東京 (2025.09)．
@@ -157,8 +173,11 @@
 25. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "ObfusEval: Evaluating Reliability of Obfuscating Transformations," Annual Computer Security Applications Conference (ACSAC 2022), Poster Presentation (2 pages), Texas, USA, Dec. 2022.
 
 26. 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"プログラミング演習におけるエラー自動解説の有用性の評価"，情報処理学会研究報告, vol.2023-SE-213, no.6, pp.1-8，戸塚，神奈川 (2023.03)
+
 27. 村田 優斗，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"Topic通信処理記述の解析によるROSアプリケーションのデータフローの可視化"，情報処理学会研究報告, vol.2022-SE-212, no.10, pp.1-8，滋賀 (2022.12)
+
 28. 大和 祐介，石尾 隆，**<u>嶋利 一真</u>**，松本 健一，"遠隔プログラミング演習におけるエラー解説機能の導入"，IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2022 ワークショップ，早稲田，東京 (2022.09)
+
 29. 藤原 勇真，神田 哲也，**<u>嶋利 一真</u>**，井上 克郎，"Javaプログラムを対象としたソースコードの変更量と実行トレースの変化量間の相関調査"，情報処理学会研究報告, vol.2022-SE-211, no.27, pp.1-8. (2022.07) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1241.html)] -->
 
 30. **<u>嶋利 一真</u>**，石尾 隆，神田 哲也，井上 克郎，"限られた保存領域を使用する準網羅的な実行トレース記録手法の評価"，第3回次世代ソフトウェアエコシステムワークショップ, ポスター，オンライン (2022.03) <!-- * [[詳細](https://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/contents.ja/1229.html)] -->
@@ -190,12 +209,15 @@
 ## 著書
 
 1. 金谷 重彦，平尾 俊貴，小笠原 司，松本 健一，**<u>嶋利 一真</u>**，工藤 拓斗，田中 英武，山﨑 和真，張 凡，"奈良先端科学技術大学院大学NAIST STELLAプログラム運営委員会高校生のデータサイエンス・Pythonでも77本ノック : NAIST STELLAプログラム"「共創」が育む主体性の未来" 学習教材"，国立大学法人奈良先端科学技術大学院大学，(2024.10)
+
 2. 張 凡，今西 温輝，金谷 重彦，松本 健一， 平尾 俊貴，**<u>嶋利 一真</u>**，工藤 拓斗，田中 英武，山﨑 和真，德永 眞一郎，三宅 雅人，小笠原 司，奈良先端科学技術大学院大学NAIST STELLAプログラム運営委員会，"データサイエンスで考える理数探究基礎「未来に向かって」Python版"，国立大学法人奈良先端科学技術大学院大学，(2024.10)
 
 ## その他
 
 1. 夏期特別講座，奈良県立奈良北高等学校 (2025.07)
+
 2. 夏期特別講座，奈良県立奈良北高等学校 (2024.07)
+
 3. 夏期特別講座，奈良県立奈良北高等学校 (2023.07)
 
 4. 博士号とった人に聞いてみた，情報処理学会，会誌「情報処理」Vol.64，No.5，pp.221-221 (2023.04)
@@ -205,9 +227,14 @@
 ## 研究に関する受賞など
 
 1. ICSE 2026 Artifact Evaluation Track Distinguished Reviewer Awards
+
 2. Kazuma Yamasaki, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "AI-oriented Programming Language: Proposal for Reconstructing Ecosystems for AI," Distinguished Presentation Awards, AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers 2025.
+
 3. 田中 慎之佑，**<u>嶋利 一真</u>**，福島 和希，石尾 隆，松本 健一，"N-gramによる確率モデルを用いた初学者向け構文エラー修正支援手法"，情報処理学会論文誌ジャーナル/JIP特選論文．
+
 4. Bayu Fedra Abdullah, Yusuf Sulistyo Nugroho, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Using LLMs for Security Advisory Investigations: How Far Are We?," Student Best Paper, 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Jun. 2025.
+
+
 5. Masayuki Inaba, **<u>Kazumasa Shimari</u>**, Masao Ohira, Kenichi Matsumoto, "Towards Detecting Textually Dissimilar Duplicate Bug Reports using Transformers," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, 2 pages, Dec. 2024.
 
 6. Tetsuya Kanda, Yuma Fujiwara, **<u>Kazumasa Shimari</u>**, Yoshiki Higo, "A Preliminary Study on Test Selection Methods with Finer-Grained Dependencies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
@@ -215,6 +242,7 @@
 7. Takashi Nakano, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula, Christoph Treude, Marc Cheong, Kenichi Matsumoto, "Nice to Meet You: The Role of Communicative Signaling in GitHub Profile Biographies," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
 
 8. Indira Febriyanti, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, Raula Gaikovina Kula, "How Maintainable is Proficient Code? A Case Study of Three PyPI Libraries," Distinguished Presentation Award, The First International Workshop on Intertwining Research & Education on Software, Osaka, Japan, Dec. 2024.
+
 9. Kazuki Fukushima, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Towards Assessment of Practicality of Introductory Programming Course Using Vocabulary of Textbooks, Assignments, and Actual Projects," Best Poster and Tool Track Award: the 35th International Conference on Software Engineering Education and Training, Tokyo, Japan, Aug. 2023.
 
 10. **<u>Kazumasa Shimari</u>**，ICPC 2023 Distinguished Reviewer Award
@@ -230,7 +258,9 @@
 ## 論文執筆を指導した学生の受賞 （上記に含まれないもの）
 
 1. 土田 陸斗：優秀発表賞（ポスター発表部門），第32回ソフトウェア工学の基礎ワークショップ (2025年11月)
+
 2. 小舟 康予：支部大会奨励賞，2025年度情報処理学会関西支部 支部大会（2025年9月）
+
 3. 北岡 哲哉：貢献賞（フルペーパー部門），第29回ソフトウェア工学の基礎ワークショップ (2022年11月)
 
 4. 北岡 哲哉：IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2022 (2022年11月)
