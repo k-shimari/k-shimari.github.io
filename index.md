@@ -44,19 +44,23 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
 
 ## Conference and Workshop Papers
 
-1. Takahiro Monno, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Kazuma Yamasaki and Kenichi Matsumoto, "How Do Developers Use Migration Guides? A Case Study of Log4j," 30th International Conference on Evaluation and Assessment in Software Engineering, 2026. (Accepted)
+1. Hidetake Tanaka, Hiroshi Igaki, **<u>Kazumasa Shimari</u>**, Kiyoshi Honda and Naoki Fukuyasu
+, "Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL," 38th International Conference on Software Engineering Education
+and Training, 2026. (Accepted)
+   
+2. Takahiro Monno, **<u>Kazumasa Shimari</u>**, Tetsuya Kanda, Kazuma Yamasaki and Kenichi Matsumoto, "How Do Developers Use Migration Guides? A Case Study of Log4j," 30th International Conference on Evaluation and Assessment in Software Engineering, 2026. (Accepted)
 
-2. Hirotatsu Hoshikawa, Hidetake Tanaka, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula and Kenichi Matsumoto, "A Longitudinal Analysis of Good First Issue Practices and Newcomer Pull Requests in Popular OSS Projects," 30th International Conference on Evaluation and Assessment in Software Engineering, 2026. (Accepted)
+3. Hirotatsu Hoshikawa, Hidetake Tanaka, **<u>Kazumasa Shimari</u>**, Raula Gaikovina Kula and Kenichi Matsumoto, "A Longitudinal Analysis of Good First Issue Practices and Newcomer Pull Requests in Popular OSS Projects," 30th International Conference on Evaluation and Assessment in Software Engineering, 2026. (Accepted)
 
-3. Kan Watanabe, Rikuto Tsuchida, Takahiro Monno, Bin Huang, Kazuma Yamasaki, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "How AI Coding Agents Communicate: A Study of Pull Request Characteristics and Human Review Responses," 23rd International Conference on Mining Software Repositories, 2026. (Accepted)
+4. Kan Watanabe, Rikuto Tsuchida, Takahiro Monno, Bin Huang, Kazuma Yamasaki, Youmei Fan, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "How AI Coding Agents Communicate: A Study of Pull Request Characteristics and Human Review Responses," 23rd International Conference on Mining Software Repositories, 2026. (Accepted)
 
-4. Kazuma Yamasaki, Joseph Ayobami Joshua, Tasha Settewong, Mahmoud Alfadel, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Who Writes the Docs in SE 3.0? Agent vs. Human Documentation Pull Requests," 23rd International Conference on Mining Software Repositories, 2026. (Accepted)
+5. Kazuma Yamasaki, Joseph Ayobami Joshua, Tasha Settewong, Mahmoud Alfadel, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Who Writes the Docs in SE 3.0? Agent vs. Human Documentation Pull Requests," 23rd International Conference on Mining Software Repositories, 2026. (Accepted)
 
-5. Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, **<u>Kazumasa Shimari</u>**, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia, "Forecasting Developer Environments with GenAI: A Research Perspective," The 3rd International Workshop on Integrated Development Environments, 2026. (Accepted)
+6. Raula Gaikovina Kula, Christoph Treude, Xing Hu, Sebastian Baltes, Earl T. Barr, Kelly Blincoe, Fabio Calefato, Junjie Chen, Marc Cheong, Youmei Fan, Daniel M. German, Marco Gerosa, Jin L.C. Guo, Shinpei Hayashi, Robert Hirschfeld, Reid Holmes, Yintong Huo, Takashi Kobayashi, Michele Lanza, Zhongxin Liu, Olivier Nourry, Nicole Novielli, Denys Poshyvanyk, Shinobu Saito, **<u>Kazumasa Shimari</u>**, Igor Steinmacher, Mairieli Wessel, Markus Wagner, Annie Vella, Laurie Williams, Xin Xia, "Forecasting Developer Environments with GenAI: A Research Perspective," The 3rd International Workshop on Integrated Development Environments, 2026. (Accepted)
 
-6. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Understanding the Characteristics of LLM-Generated Property-Based Tests in Exploring Edge Cases," 2nd ACM International Conference on AI-powered Software, pp. 11-18, 2025. <!-- Acceptance rate 46% (26/57) -->
+7. Hidetake Tanaka, Haruto Tanaka, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Understanding the Characteristics of LLM-Generated Property-Based Tests in Exploring Edge Cases," 2nd ACM International Conference on AI-powered Software, pp. 11-18, 2025. <!-- Acceptance rate 46% (26/57) -->
 
-7. Nirai Hayakawa, **<u>Kazumasa Shimari</u>**, Kazuma Yamasaki, Hirotatsu Hoshikawa, Rikuto Tsuchida and Kenichi Matsumoto, "Round Outcome Prediction in VALORANT Using Tactical Features from Video Analysis," Proceedings of the 2025 IEEE Conference on Games, Lisbon, Portugal, pp. 1-4, 2025. <!-- Acceptance rate 42% (XX/165) -->
+8. Nirai Hayakawa, **<u>Kazumasa Shimari</u>**, Kazuma Yamasaki, Hirotatsu Hoshikawa, Rikuto Tsuchida and Kenichi Matsumoto, "Round Outcome Prediction in VALORANT Using Tactical Features from Video Analysis," Proceedings of the 2025 IEEE Conference on Games, Lisbon, Portugal, pp. 1-4, 2025. <!-- Acceptance rate 42% (XX/165) -->
 
 
 8. Yusuf Sulistyo Nugroho, Farah Danisha Salam, Brittany Reid, Raula Gaikovina Kula, **<u>Kazumasa Shimari</u>**, Ken-ichi Matsumoto, "Uncovering Intention through LLM-Driven Code Snippet Description Generation," Proceedings of the 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML), Surakarta, Indonesia, pp. 1-6 June 2025.
