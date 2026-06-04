@@ -141,6 +141,7 @@ and Training, 2026. (Accepted)
 ## Academic Service
 
 - Program Committee Member
+  - APSEC 2026 Technical Track
   - COMPSAC 2026 Software Engineering Technologies & Applications Track
   - ICSE 2026 Artifact Evaluation Track
   - SANER 2026 ERA Track

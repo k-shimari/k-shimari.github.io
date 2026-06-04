@@ -275,6 +275,7 @@ and Training, 2026. (Accepted)
 ## 学会活動 （国際）
 
 - Program Committee Member
+  - APSEC 2026 Technical Track
   - COMPSAC 2026 Software Engineering Technologies & Applications Track
   - ICSE 2026 Artifact Evaluation Track
   - SANER 2026 ERA Track
@@ -300,10 +301,12 @@ and Training, 2026. (Accepted)
 
 ## 学会活動 （国内）
 
-- 情報処理学会 ソフトウェア工学研究会
+- 情報処理学会 
+  - ソフトウェア工学研究会 運営委員 (2026-)
+  - 情報処理学会関西支部 幹事 (2026-)
+  - ソフトウェアエンジニアリングシンポジウム 企画委員長 (2026)
   - ソフトウェアエンジニアリングシンポジウム プログラム委員 (2025)
   - ソフトウェアエンジニアリングシンポジウム 既発表・招待論文委員長 (2024)
-  - 情報処理学会論文誌 査読委員
 - ソフトウェア科学会
   - 日本ソフトウェア科学会第41回大会 ポスター委員長 (2024)
   - ソフトウェア工学の基礎ワークショップ プログラム委員 (2025, 2024, 2023)
