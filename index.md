@@ -1,7 +1,6 @@
 # Kazumasa Shimari
 Lecturer, [Software Engineering Laboratory](https://naist-se.github.io/), Division of Information Science, Faculty of Systems Engineering, Wakayama University
 
-
 <!-- ![photo]({{ site.url }}/pic/shimari.jpg) -->
 
 E-mail：shimari@wakayama-u.(+ac.jp)
@@ -146,6 +145,8 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
   * Organization
     * General Chair: AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers
     * Organizing Team: WIREDS 2024 
+  * Editorial Board
+    * IEICE Transactions on Information and Systems (2025-)
   * Journal Peer Review
     * Empirical Software Engineering
     * Journal of Information Processing
