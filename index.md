@@ -142,6 +142,7 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
 ## Academic Service
 
 - Program Committee Member
+  - TRUST 2026 
   - APSEC 2026 Technical Track
   - COMPSAC 2026 Software Engineering Technologies & Applications Track
   - ICSE 2026 Artifact Evaluation Track
@@ -164,7 +165,7 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
   - General Chair: AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers
   - Organizing Team: WIREDS 2024
 - Editorial Board
-  - IEICE Transactions on Information and Systems (2025-)
+  - IEICE Transactions on Information and Systems: Associate Editor (2025-)
 - Journal Peer Review
   - Empirical Software Engineering
   - Journal of Information Processing
