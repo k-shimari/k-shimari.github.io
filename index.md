@@ -14,7 +14,7 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
 
 ## Journal Papers
 
-1. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Fault Localization using LLMs with Line-by-Line Program Execution Traces," IEEE Access, 2026. (Accepted)
+1. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Fault Localization using LLMs with Line-by-Line Program Execution Traces," IEEE Access, vol. 14, pp. 153014-153030, 2026.
 
 2. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Evaluating the Resilience of Obfuscated Code Against LLM-based Function Name Recovery in MATE Attacks," IEICE Transactions on Information and Systems, Vol.E109-D, No.9, Sep. 2026.
 
@@ -179,7 +179,6 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
     * APSEC2018   -->
 
 ## Lecture
-
 - 2024: Special Lectures in Information Science (NAIST)
 - 2023-: Programming Practice (NAIST)
 - 2022-: Software Engineering (NAIST)
@@ -191,7 +190,7 @@ My research interests include AI for SE, software testing, dynamic analysis, pro
 
 - 2026.04-: Lecturer, Faculty of Systems Engineering, Wakayama University
 
-- 2022.04-: Assistant Professor, Division of Information Science, Graduate School of Science and
+- 2022.04-2026.03: Assistant Professor, Division of Information Science, Graduate School of Science and
   Technology, Nara Institute of Science and Technology
 
 - 2019.04-2022.03: Doctor of Information Science and Technology,

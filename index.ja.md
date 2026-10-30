@@ -10,7 +10,7 @@
 
 ## 論文誌
 
-1. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Fault Localization using LLMs with Line-by-Line Program Execution Traces," IEEE Access, 2026. (Accepted)
+1. Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, **<u>Kazumasa Shimari</u>**, Takashi Ishio, "Fault Localization using LLMs with Line-by-Line Program Execution Traces," IEEE Access, vol. 14, pp. 153014-153030, 2026.
    
 2. Tetsuya Kitaoka, Yuichiro Kanzaki, Takashi Ishio, **<u>Kazumasa Shimari</u>**, Kenichi Matsumoto, "Evaluating the Resilience of Obfuscated Code Against LLM-based Function Name Recovery in MATE Attacks," IEICE Transactions on Information and Systems, Vol.E109-D, No.9, Sep. 2026.
 
