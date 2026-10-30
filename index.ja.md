@@ -1,7 +1,7 @@
 # 嶋利 一真
 
 和歌山大学 システム工学部 
-[[知能協働ソフトウェア工学研究室](https://wakayama-icselab.github.io/)] 講師
+[知能協働ソフトウェア工学研究室](https://wakayama-icselab.github.io/){:target="_blank"} 講師
 
 <!-- ![photo]({{ site.url }}/pic/shimari.jpg) -->
 

@@ -1,6 +1,7 @@
 # Kazumasa Shimari
 
-Lecturer, [[Intelligent Collaborative Software Engineering Laboratory](https://wakayama-icselab.github.io/en/)]
+Lecturer, [Intelligent Collaborative Software Engineering Laboratory](https://wakayama-icselab.github.io/en/){:target="_blank"}
+
 Faculty of Systems Engineering, Wakayama University
 
 
